@@ -264,6 +264,10 @@ Kafka: https://kafka.apache.org/
 Better-Files: https://github.com/pathikrit/better-files
 Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 
+### Scala Plugins
+* [wartremover](https://www.wartremover.org/)
+* [scalastyle](http://www.scalastyle.org/sbt.html)
+
 ### Scala Lift Framework
 
 * [Exploring Lift](http://exploring.liftweb.net) (published earlier as "The Definitive Guide to Lift", [PDF](http://groups.google.com/group/the-lift-book))
@@ -282,6 +286,11 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * https://www.scala-js.org/
 * https://github.com/tastejs/todomvc/tree/master/examples/binding-scala (https://github.com/ThoughtWorksInc/Binding.scala)
 * https://github.com/tastejs/todomvc/tree/master/examples/scalajs-react
+
+### Scala in Banking
+
+* https://github.com/OpenBankProject (https://www.openbankproject.com)
+* https://github.com/OpenBankingUK (https://www.openbanking.org.uk)
 
 ### Other Scala Libraries (By License)
 
