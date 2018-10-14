@@ -988,14 +988,6 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [GNU Emacs Lisp Reference Manual](http://www.gnu.org/software/emacs/manual/elisp.html)
 * [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/pdf/emacs.pdf) (PDF)
 
-    * [Node-EBooks](#Node-EBooks)
-    * [Express-EBooks](#Express-EBooks)
-    * [jQuery-EBooks](#jQuery-EBooks)
-    * [TypeScript-EBooks](#TypeScript-EBooks)
-    * [Angular-EBooks](#Angular-EBooks)
-    * [React-EBooks](#React-EBooks)
-    * [Redux-EBooks](#Redux-EBooks)
-
 <a name="JavaScript-EBooks"></a>
 
 ## JavaScript
