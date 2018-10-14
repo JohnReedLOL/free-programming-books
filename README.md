@@ -8,14 +8,28 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 # Index
 
 * <a href="#MOOC">Online Courses</a>
-* <a href="#Podcasts">Podcasts</a>
-* <a href="#EBooks">EBooks</a>
+  * [Databases](#Databases)
+  * [Git](#Git)  
+  * [Java](#Java)
+  * [JavaScript](#JavaScript)
+    * [Angular](#Angular)
+    * [jQuery](#jQuery)
+    * [React](#React)
+    * [Redux](#Redux)
+  * [Machine-Learning](#Machine-Learning)
+  * [Python](#Python)
+  * [Scala](#Scala)
+  * [Software-Engineering](#Software-Engineering)
+  * [SQL](#SQL)
+  * [Web-Development](#Web-Development)
 
 ____________________________________________________________________________________________________________________
 
 <a name="MOOC"></a>
 
-# MOOC (Massive Open Online Courses)
+# Online Courses
+
+## MOOC (Massive Open Online Courses)
 
 * [Coursera](https://www.coursera.org)
 * [edX](https://www.edx.org)
@@ -25,8 +39,6 @@ ________________________________________________________________________________
 * [openHPI](https://open.hpi.de)
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
-
-## Online Courses
 
 ### Databases
 
