@@ -393,6 +393,7 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * Jenkins plugin: https://github.com/jenkinsci/sbt-plugin
 * Docker Compose: https://github.com/Tapad/sbt-docker-compose
 * Scalafix: https://github.com/scalacenter/scalafix
+* Bloop [Build Test Loop](https://scalacenter.github.io/bloop/) - https://www.scala-lang.org/blog/2017/11/30/bloop-release.html (Requires Python, SBT, and Scala 2.12) 
 
 ## Functional Programming
 
