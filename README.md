@@ -55,6 +55,7 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
   * [Git-EBooks](#Git-EBooks)
   * [PowerShell-EBooks](#PowerShell-EBooks)
   * [Bash-EBooks](#Bash-EBooks)
+  * [Simple-Text-Editor-EBooks](#Simple-Text-Editor-EBooks)
   * [JavaScript-EBooks](#JavaScript-EBooks)
     * [Node-EBooks](#Node-EBooks)
     * [Express-EBooks](#Express-EBooks)
@@ -70,6 +71,11 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
   * [Erlang-EBooks](#Erlang-EBooks)
   * [Professional-Development-EBooks](#Professional-Development-EBooks)
 
+* <a href="#Blog-Posts">Blog-Posts-Links</a>
+  * [How to Comduct A Programming Interview](http://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html)
+  * [Scala Warts](http://www.lihaoyi.com/post/WartsoftheScalaProgrammingLanguage.html)
+  * [Scala.js](http://www.lihaoyi.com/post/FromfirstprinciplesWhyIbetonScalajs.html)
+  
 ____________________________________________________________________________________________________________________
 
 <a name="MOOC"></a>
@@ -971,8 +977,11 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - William E. Shotts, Jr. (PDF)
 * [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts, Jr. (HTML)
 
+<a name="Simple-Text-Editor-EBooks"></a>
 
-## Vim
+## Simple Text Editors
+
+### Vim
 
 * [A Byte of Vim](http://www.swaroopch.com/notes/vim/)
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
@@ -981,12 +990,21 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [Vi Improved -- Vim](http://www.truth.sk/vim/vimbook-OPL.pdf) - Steve Oualline (PDF)
 * [Vim Recipes](https://web.archive.org/web/20130302172911/http://vim.runpaint.org/vim-recipes.pdf) (PDF)
 * [Vim Regular Expressions 101](http://vimregex.com)
+* https://github.com/ensime/ensime-vim
+* https://github.com/megaannum/vimside
 
-## Emacs
+### Emacs
 
 * [An Introduction to Programming in Emacs Lisp, 3rd Edition](https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html)
 * [GNU Emacs Lisp Reference Manual](http://www.gnu.org/software/emacs/manual/elisp.html)
 * [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/pdf/emacs.pdf) (PDF)
+* https://github.com/ensime/ensime-emacs
+
+### Ensime (Scala Auto-Complete for Vim/Emacs)
+
+* http://ensime.github.io/
+* http://ensime.org/build_tools/sbt (https://github.com/ensime/ensime-sbt)
+* https://github.com/ensime/ensime-vscode
 
 <a name="JavaScript-EBooks"></a>
 
