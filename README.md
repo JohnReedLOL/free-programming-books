@@ -5,6 +5,16 @@ This page is available as an easy-to-read website at [https://ebookfoundation.gi
 ## Intro
 This list was originally a clone of [stackoverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) with contributions from Karan Bhangui and George Stocker.
 
+# Index
+
+* <a href="#MOOC"Online Courses</a>
+* <a href="#Podcasts"Podcasts</a>
+* <a href="#EBooks"EBooks</a>
+
+____________________________________________________________________________________________________________________
+
+<a name="MOOC"></a>
+
 # MOOC (Massive Open Online Courses)
 
 * [Coursera](https://www.coursera.org)
@@ -16,7 +26,7 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
 
-# Online Courses
+## Online Courses
 
 ### Databases
 
@@ -160,6 +170,9 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)
 * [Udacity Web Development Course Catalog](https://www.udacity.com/courses#!/web-development#!/web-development)
 
+____________________________________________________________________________________________________________________
+
+<a name="Podcasts"></a>
 
 # Podcasts
 
@@ -224,6 +237,10 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 * [Security Now](https://www.grc.com/securitynow.htm) (podcast)
 * [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet) (podcast)
 * [Web Security Warriors](https://devchat.tv/web-security-warriors/) (podcast)
+
+____________________________________________________________________________________________________________________
+
+<a name="EBooks"></a>
 
 # Free Online Books
 
