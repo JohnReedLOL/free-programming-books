@@ -56,11 +56,11 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
   * [PowerShell-EBooks](#PowerShell-EBooks)
   * [Bash-EBooks](#Bash-EBooks)
   * [JavaScript-EBooks](#JavaScript-EBooks)
-    * [TypeScript-EBooks](#TypeScript-EBooks)
-    * [Angular-EBooks](#Angular-EBooks)
+    * [Node-EBooks](#Node-EBooks)
     * [Express-EBooks](#Express-EBooks)
     * [jQuery-EBooks](#jQuery-EBooks)
-    * [Node-EBooks](#Node-EBooks)
+    * [TypeScript-EBooks](#TypeScript-EBooks)
+    * [Angular-EBooks](#Angular-EBooks)
     * [React-EBooks](#React-EBooks)
     * [Redux-EBooks](#Redux-EBooks)
   * [HTML-CSS-EBooks](#HTML-CSS-EBooks)
@@ -988,6 +988,14 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [GNU Emacs Lisp Reference Manual](http://www.gnu.org/software/emacs/manual/elisp.html)
 * [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/pdf/emacs.pdf) (PDF)
 
+    * [Node-EBooks](#Node-EBooks)
+    * [Express-EBooks](#Express-EBooks)
+    * [jQuery-EBooks](#jQuery-EBooks)
+    * [TypeScript-EBooks](#TypeScript-EBooks)
+    * [Angular-EBooks](#Angular-EBooks)
+    * [React-EBooks](#React-EBooks)
+    * [Redux-EBooks](#Redux-EBooks)
+
 <a name="JavaScript-EBooks"></a>
 
 ## JavaScript
@@ -1036,6 +1044,32 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) *(Sorella)*
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
+<a name="Node-EBooks"></a>
+
+### Node.js
+
+* [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe  ([PDF](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - [ePub](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.epub))
+* [Mixu's Node Book](http://book.mixu.net/node/)
+* [Node Documentation](https://nodejs.org/en/docs/)
+* [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html) - Tom Hughes-Croucher
+* [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)
+* [The Node Beginner Book](http://nodebeginner.org)
+* [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-to-know-about-nodejs) - Bruno Joseph Dmello, Packt (email address *requested*, not required)
+
+<a name="Express-EBooks"></a>
+
+### Express.js
+
+* [Express.js Guide](https://web.archive.org/web/20140621124403/https://leanpub.com/express/read) - Azat Mardanov
+
+<a name="jQuery-EBooks"></a>
+
+### jQuery
+
+* [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/)
+* [jQuery Novice to Ninja](http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf) (PDF)
+* [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) (email address *requested*, not required)
+
 <a name="TypeScript-EBooks"></a>
 
 ### TypeScript
@@ -1062,69 +1096,6 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) - Frederik Dietz
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1/)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
-
-
-### Backbone.js
-
-* [A Complete guide for learning Backbone.js](http://codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
-* [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com)
-* [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis   *(Leanpub account or valid email requested)*
-* [Backbone.js + Require.js, Modularization and Just in Time Dependency Loading, part 1](http://developer.teradata.com/blog/jasonstrimpel/2011/12/part-1-backbone-js-require-js) [part 2](http://developer.teradata.com/blog/jasonstrimpel/2012/01/part-2-backbone-js-require-js-further-modularization-and-just-in-time-dep)
-* [Backbone.js and socket.io](http://developer.teradata.com/blog/jasonstrimpel/2011/11/backbone-js-and-socket-io)
-* [Backbonejs Tutorials](https://cdnjs.com/libraries/backbone.js/tutorials/)
-* [Building Single Page Web Apps with Backbone.js](https://singlepagebook.supportbee.com) (:construction: *in process*)
-* [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
-* [Getting Started with Backbone.js](http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-backbone-js/)
-* [How to share Backbone.js models with node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
-
-
-### Elm
-
-* [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
-* [Elm Accelerated](https://accelerated.amimetic.co.uk) - James Porter
-* [Elm Tutorial](http://www.elm-tutorial.org)
-* [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
-
-
-### Ember.js
-
-* [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
-* [DockYard Ember.js Style Guide](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)
-* [Ember App with RailsApi](https://dockyard.com/blog/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1)
-* [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
-* [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
-
-<a name="Express-EBooks"></a>
-
-### Express.js
-
-* [Express.js Guide](https://web.archive.org/web/20140621124403/https://leanpub.com/express/read) - Azat Mardanov
-
-<a name="jQuery-EBooks"></a>
-
-### jQuery
-
-* [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/)
-* [jQuery Novice to Ninja](http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf) (PDF)
-* [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) (email address *requested*, not required)
-
-
-### Meteor
-
-* [BulletProof Meteor](https://bulletproofmeteor.com)
-* [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
-
-<a name="Node-EBooks"></a>
-
-### Node.js
-
-* [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe  ([PDF](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - [ePub](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.epub))
-* [Mixu's Node Book](http://book.mixu.net/node/)
-* [Node Documentation](https://nodejs.org/en/docs/)
-* [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html) - Tom Hughes-Croucher
-* [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)
-* [The Node Beginner Book](http://nodebeginner.org)
-* [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-to-know-about-nodejs) - Bruno Joseph Dmello, Packt (email address *requested*, not required)
 
 <a name="React-EBooks"></a>
 
@@ -1163,6 +1134,42 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 * [The Complete Redux Book](https://leanpub.com/redux-book) - Boris Dinkevich and Ilya Gelman  *(Leanpub account or valid email requested)*
+
+
+### Backbone.js
+
+* [A Complete guide for learning Backbone.js](http://codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
+* [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com)
+* [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis   *(Leanpub account or valid email requested)*
+* [Backbone.js + Require.js, Modularization and Just in Time Dependency Loading, part 1](http://developer.teradata.com/blog/jasonstrimpel/2011/12/part-1-backbone-js-require-js) [part 2](http://developer.teradata.com/blog/jasonstrimpel/2012/01/part-2-backbone-js-require-js-further-modularization-and-just-in-time-dep)
+* [Backbone.js and socket.io](http://developer.teradata.com/blog/jasonstrimpel/2011/11/backbone-js-and-socket-io)
+* [Backbonejs Tutorials](https://cdnjs.com/libraries/backbone.js/tutorials/)
+* [Building Single Page Web Apps with Backbone.js](https://singlepagebook.supportbee.com) (:construction: *in process*)
+* [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
+* [Getting Started with Backbone.js](http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-backbone-js/)
+* [How to share Backbone.js models with node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
+
+
+### Elm
+
+* [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
+* [Elm Accelerated](https://accelerated.amimetic.co.uk) - James Porter
+* [Elm Tutorial](http://www.elm-tutorial.org)
+* [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
+
+
+### Ember.js
+
+* [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
+* [DockYard Ember.js Style Guide](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)
+* [Ember App with RailsApi](https://dockyard.com/blog/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1)
+* [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
+* [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
+
+### Meteor
+
+* [BulletProof Meteor](https://bulletproofmeteor.com)
+* [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
 
 <a name="HTML-CSS-EBooks"></a>
 
