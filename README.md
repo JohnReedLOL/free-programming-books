@@ -32,6 +32,44 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
     * [React-Podcast](#React-Podcast)
   * [Security-Podcast](#Security-Podcast)
 
+* <a href="#EBooks">EBooks</a>
+  * [Scala-EBooks](#Scala-EBooks)
+    * [Scala-Libraries-Plugins-EBooks](#Scala-Libraries-Plugins-EBooks) 
+  * [Spark-EBooks](#Spark-EBooks)
+  * [Hadoop-EBooks](#Hadoop-EBooks)
+  * [Monitoring-EBooks](#Monitoring-EBooks)
+  * [SBT-EBooks](#SBT-EBooks)
+  * [Functional-Programming-EBooks](#Functional-Programming-EBooks)
+  * [Security-EBooks](#Security-EBooks)
+  * [Software-Architecture-EBooks](#Software-Architecture-EBooks)
+  * [Java-EBooks](#Java-EBooks)
+  * [Mathematics-EBooks](#Mathematics-EBooks)
+  * [Machine-Learning-EBooks](#Machine-Learning-EBooks)
+  * [Haskell-EBooks](#Haskell-EBooks)
+  * [Python-EBooks](#Python-EBooks)
+  * [Jenkins-EBooks](#Jenkins-EBooks)
+  * [Database-EBooks](#Database-EBooks)
+  * [SQL-EBooks](#SQL-EBooks)
+  * [NoSQL-EBooks](#NoSQL-EBooks)
+    * [Elasticsearch-EBooks](#Elasticsearch-EBooks)
+  * [Git-EBooks](#Git-EBooks)
+  * [PowerShell-EBooks](#PowerShell-EBooks)
+  * [Bash-EBooks](#Bash-EBooks)
+  * [JavaScript-EBooks](#JavaScript-EBooks)
+    * [TypeScript-EBooks](#TypeScript-EBooks)
+    * [Angular-EBooks](#Angular-EBooks)
+    * [Express-EBooks](#Express-EBooks)
+    * [jQuery-EBooks](#jQuery-EBooks)
+    * [Node-EBooks](#Node-EBooks)
+    * [React-EBooks](#React-EBooks)
+    * [Redux-EBooks](#Redux-EBooks)
+  * [HTML-CSS-EBooks](#HTML-CSS-EBooks)
+  * [Bootstrap-EBooks](#Bootstrap-EBooks)
+  * [Language-Agnostic-EBooks](#Language-Agnostic-EBooks)
+  * [Software-Licensing-EBooks](#Software-Licensing-EBooks)
+  * [Erlang-EBooks](#Erlang-EBooks)
+  * [Professional-Development-EBooks](#Professional-Development-EBooks)
+
 ____________________________________________________________________________________________________________________
 
 <a name="MOOC"></a>
@@ -293,6 +331,8 @@ ________________________________________________________________________________
 
 # Free Online Books
 
+<a name="Scala-EBooks"></a>
+
 ## Scala
 
 * [A Scala Tutorial for Java programmers](http://www.scala-lang.org/docu/files/ScalaTutorial.pdf) (PDF)
@@ -323,6 +363,8 @@ ________________________________________________________________________________
 * [The Type Astronaut's Guide to Shapeless](http://underscore.io/books/shapeless-guide/) - Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 * [Xtrace](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 
+<a name="Scala-Libraries-Plugins-EBooks"></a>
+
 ### Scala Libraries
 Tutorials and Popular Libraries: https://www.scala-exercises.org/ (https://github.com/scala-exercises/)
 Akka: https://akka.io/
@@ -334,6 +376,8 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [wartremover](https://www.wartremover.org/)
 * [scalastyle](http://www.scalastyle.org/sbt.html)
 
+<a name="Scala-Lift-Framework-EBooks"></a>
+
 ### Scala Lift Framework
 
 * [Exploring Lift](http://exploring.liftweb.net) (published earlier as "The Definitive Guide to Lift", [PDF](http://groups.google.com/group/the-lift-book))
@@ -341,11 +385,14 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [Lift Cookbook](http://chimera.labs.oreilly.com/books/1234000000030/index.html) - Richard Dallaway
 * [Simply Lift](http://simply.liftweb.net/Simply_Lift.pdf) - David Pollak (PDF)
 
+<a name="Scala-Play-Framework-EBooks"></a>
 
 ### Scala Play Framework
 
 * [Essential Play](http://underscore.io/books/essential-play/) - Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 * [Play Framework Recipes](http://alvinalexander.com/scala/scala-cookbook-play-framework-recipes-pdf-ebook) - Alvin Alexander
+
+<a name="Scala-With-Javascript-EBooks"></a>
 
 ### Scala with Javascript
 
@@ -353,10 +400,14 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * https://github.com/tastejs/todomvc/tree/master/examples/binding-scala (https://github.com/ThoughtWorksInc/Binding.scala)
 * https://github.com/tastejs/todomvc/tree/master/examples/scalajs-react
 
+<a name="Scala-In-Banking-EBooks"></a>
+
 ### Scala in Banking
 
 * https://github.com/OpenBankProject (https://www.openbankproject.com)
 * https://github.com/OpenBankingUK (https://www.openbanking.org.uk)
+
+<a name="Other-Scala-Libraries-EBooks"></a>
 
 ### Other Scala Libraries (By License)
 
@@ -384,6 +435,7 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 
 * https://github.com/pureconfig/pureconfig -- https://pureconfig.github.io (for config files as immutable data structures or case classes)
 
+<a name="Scala-SBT-for-Web-Apps-EBooks"></a>
 
 ### Scala sbt stuff for web apps
 
@@ -391,11 +443,15 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * SBT React: https://github.com/dispalt/sbt-reactjs
 * Scala JS: https://github.com/vmunier/sbt-web-scalajs
 
-### Spark (Scala/Java/Python)
+<a name="Spark-EBooks"></a>
+
+### Spark (Scala/Python)
 
 * [Databricks Spark Knowledge Base](https://www.gitbook.com/book/databricks/databricks-spark-knowledge-base/details)
 * [Databricks Spark Reference Applications](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
 * [Mastering Apache Spark](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
+
+<a name="Hadoop-EBooks"></a>
 
 ### Hadoop (Java)
 
@@ -405,6 +461,7 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [Hadoop Illuminated](http://hadoopilluminated.com/index.html) - Mark Kerzner & Sujee Maniyam
 * [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html) - Alan Gates
 
+<a name="Monitoring-EBooks"></a>
 
 ## Monitoring
 
@@ -426,6 +483,8 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [Maven by Example](http://books.sonatype.com/mvnex-book/reference/public-book.html)
 * [Maven: The Complete Reference](http://books.sonatype.com/mvnref-book/reference/public-book.html)
 * [Repository Management with Nexus](http://books.sonatype.com/nexus-book/reference/)
+
+<a name="SBT-EBooks"></a>
 
 ## SBT
 * https://jazzy.id.au/2015/03/03/sbt-task-engine.html
@@ -460,11 +519,15 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * Docker Compose: https://github.com/Tapad/sbt-docker-compose
 * Scalafix: https://github.com/scalacenter/scalafix
 
+<a name="Functional-Programming-EBooks"></a>
+
 ## Functional Programming
 
 * [Introduction to Functional Programming](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) - J. Harrison
 * [Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
+
+<a name="Security-EBooks"></a>
 
 ## Security
 
@@ -478,6 +541,8 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [OWASP Testing Guide 4.0](https://www.owasp.org/images/1/19/OTGv4.pdf) (PDF)
 * [OWASP Top 10 for .NET Developers](http://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
 * [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
+
+<a name="Software-Architecture-EBooks"></a>
 
 ## Software Architecture
 
@@ -515,6 +580,7 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School
 * [Your API Is Bad](https://leanpub.com/yourapiisbad/read) - Paddy Foran
 
+<a name="Java-EBooks"></a>
 
 ## Java
 
@@ -550,7 +616,6 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [Welcome to Java for Python Programmers](https://interactivepython.org/runestone/static/java4python/index.html) - Brad Miller
 * [Welcome to the Java Workshop (2006)](http://javaworkshop.sourceforge.net) - Trevor Miller
 
-
 ### Spring
 
 * [Spring Framework Reference Documentation](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/) - Rod Johnson, Juergen Hoeller, Keith Donald, Colin Sampaleanu, Rob Harrop, Thomas Risberg, Alef Arendsen, Darren Davison, Dmitriy Kopylenko, Mark Pollack, Thierry Templier, Erwin Vervaet, Portia Tung, Ben Hale, Adrian Colyer, John Lewis, Costin Leau, Mark Fisher, Sam Brannen, Ramnivas Laddad, Arjen Poutsma, Chris Beams, Tareq Abedrabbo, Andy Clement, Dave Syer, Oliver Gierke, Rossen Stoyanchev, Phillip Webb, Rob Winch, Brian Clozel, Stephane Nicoll, Sebastien Deleuze ([PDF](https://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/index.pdf))
@@ -569,6 +634,8 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 ### Wicket Framework
 
 * [Official Free Online Guide for Apache Wicket framework](http://wicket.apache.org/learn/#guide)
+
+<a name="Mathematics-EBooks"></a>
 
 ## Mathematics
 
@@ -615,6 +682,8 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
 * [Discrete Structures for Computer Science: Counting, Recursion, and Probability](http://cglab.ca/~michiel/DiscreteStructures/) - Michiel Smid
 
+<a name="Machine-Learning-EBooks"></a>
+
 ## Machine Learning
 
 * [A Brief Introduction to Machine Learning for Engineers](https://arxiv.org/pdf/1709.02840.pdf) - Osvaldo Simeone (PDF)
@@ -638,6 +707,8 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [The LION Way: Machine Learning plus Intelligent Optimization](http://www.e-booksdirectory.com/details.php?ebook=9575)
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
 
+<a name="Haskell-EBooks"></a>
+
 ## Haskell
 
 * [A Gentle Introduction to Haskell](https://www.haskell.org/tutorial/)
@@ -657,6 +728,7 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [The Haskell Road to Logic, Math and Programming](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf) (PDF)
 * [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) (PDF)
 
+<a name="Python-EBooks"></a>
 
 ## Python
 
@@ -778,10 +850,13 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - Hernan Rojas (0.18.1)
 
+<a name="Jenkins-EBooks"></a>
 
 ## Jenkins
 
 * [Jenkins: The Definitive Guide](http://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf) (PDF)
+
+<a name="Database-EBooks"></a>
 
 ## Database
 
@@ -795,6 +870,8 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
 * [What is Database Design, Anyway?](http://www.oreilly.com/data/free/what-is-database-design-anyway.csp)
 
+<a name="SQL-EBooks"></a>
+
 ## SQL (implementation agnostic)
 
 * [Developing Time-Oriented Database Applications in SQL](http://www.cs.arizona.edu/people/rts/publications.html)
@@ -802,6 +879,7 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [SQL Notes for Professionals](http://books.goalkicker.com/SQLBook/)
 * [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com)
 
+<a name="NoSQL-EBooks"></a>
 
 ## NoSQL
 
@@ -815,12 +893,14 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
 * [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/) - K. Seguin (PDF, Epub)
 
+<a name="Elasticsearch-EBooks"></a>
 
 ## Elasticsearch
 
 * [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH](https://github.com/elastic/elasticsearch-definitive-guide))
 * [Exploring Elasticsearch](http://exploringelasticsearch.com)
 
+<a name="Git-EBooks"></a>
 
 ## Git
 
@@ -847,6 +927,7 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
 * [Version Control by Example (Mercurial, Subversion, Verasity)](http://ericsink.com/vcbe/)
 
+<a name="PowerShell-EBooks"></a>
 
 ## PowerShell
 
@@ -867,6 +948,7 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [Why PowerShell?](https://www.gitbook.com/book/devopscollective/why-powershell-/details) (PDF, ePub, MOBI)
 * [Windows PowerShell Networking Guide](https://www.gitbook.com/book/devopscollective/windows-powershell-networking-guide/details) (PDF, ePub, MOBI)
 
+<a name="Bash-EBooks"></a>
 
 ## Bash
 
@@ -906,6 +988,7 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [GNU Emacs Lisp Reference Manual](http://www.gnu.org/software/emacs/manual/elisp.html)
 * [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/pdf/emacs.pdf) (PDF)
 
+<a name="JavaScript-EBooks"></a>
 
 ## JavaScript
 
@@ -953,6 +1036,8 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) *(Sorella)*
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
+<a name="TypeScript-EBooks"></a>
+
 ### TypeScript
 
 * [TypeScript Accelerated](https://accelerated.amimetic.co.uk) - James Porter
@@ -960,6 +1045,7 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
 * [TypeScript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) (email address *requested*, not required)
 
+<a name="Angular-EBooks"></a>
 
 ### Angular.js
 
@@ -1008,11 +1094,13 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [Ember.js - Getting started](http://emberjs.com/guides/getting-started/)
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
 
+<a name="Express-EBooks"></a>
 
 ### Express.js
 
 * [Express.js Guide](https://web.archive.org/web/20140621124403/https://leanpub.com/express/read) - Azat Mardanov
 
+<a name="jQuery-EBooks"></a>
 
 ### jQuery
 
@@ -1026,6 +1114,7 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [BulletProof Meteor](https://bulletproofmeteor.com)
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
 
+<a name="Node-EBooks"></a>
 
 ### Node.js
 
@@ -1037,6 +1126,7 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [The Node Beginner Book](http://nodebeginner.org)
 * [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-to-know-about-nodejs) - Bruno Joseph Dmello, Packt (email address *requested*, not required)
 
+<a name="React-EBooks"></a>
 
 ### React
 
@@ -1066,12 +1156,15 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [React Native Express](http://www.reactnativeexpress.com)
 * [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)
 
+<a name="Redux-EBooks"></a>
 
 ### Redux
 
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 * [The Complete Redux Book](https://leanpub.com/redux-book) - Boris Dinkevich and Ilya Gelman  *(Leanpub account or valid email requested)*
+
+<a name="HTML-CSS-EBooks"></a>
 
 ## HTML / CSS
 
@@ -1104,6 +1197,7 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [Understanding Flexbox: Everything you need to know](https://ohansemmanuel.github.io/uf_download.html) - Ohans Emmanuel
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
 
+<a name="Bootstrap-EBooks"></a>
 
 ### Bootstrap
 
@@ -1123,6 +1217,7 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 
 * [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) (PDF)
 
+<a name="Language-Agnostic-EBooks"></a>
 
 ## Language Agnostic
 
@@ -1182,6 +1277,8 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [Let's Build a Compiler](http://www.stack.nl/~marcov/compiler.pdf) (PDF)
 * [Linkers and Loaders](http://www.iecc.com/linker/) - John R. Levine
 * [Practical and Theoretical Aspects of Compiler Construction](http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
+
+<a name="Software-Licensing-EBooks"></a>
 
 ## Software Licensing
 
@@ -1284,6 +1381,8 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [The Open Source Way](http://www.theopensourceway.org/book/)
 * [The Wealth of Networks: How Social Production Transforms Markets and Freedom](http://cyber.law.harvard.edu/wealth_of_networks/Main_Page) - Yochai Benkler
 
+<a name="Professional-Development-EBooks"></a>
+
 ## Professional Development
 
 * [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](http://chimera.labs.oreilly.com/books/1234000001813/index.html) - David H. Hoover and Adewale Oshineye
@@ -1293,6 +1392,8 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 * [How to Do What You Love & Earn What You’re Worth as a Programmer](https://leanpub.com/dowhatyoulove/read) - Reginald Braithwaite
 * [Professional Software Development For Students](http://mixmastamyk.bitbucket.org/pro_soft_dev/) - Mike G. Miller
 * [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) - Reginald Braithwaite
+
+<a name="Erlang-EBooks"></a>
 
 ## Erlang
 
