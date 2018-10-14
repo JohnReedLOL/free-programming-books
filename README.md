@@ -296,21 +296,13 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 #### Apache 2.0
 
 * https://github.com/monix/monix -- https://monix.io (for functional composition of asynchronous programs)
-
 * https://github.com/twitter/twitter-server -- https://twitter.github.io/twitter-server/ (if you want Twitter style Request/Response APIs instead of Akka HTTP)
-
 * https://github.com/twitter/finatra -- https://twitter.github.io/finatra/ (built on top of twitter-server)
-
 * https://github.com/playframework/playframework -- http://www.playframework.com/ (for web applications and websites)
-
 * https://github.com/lagom/lagom -- https://www.lagomframework.com/ (for building microservices on top of Play/Akka [like Spring Boot, but more Reactive / Real Time / Streaming])
-
 * https://github.com/scalatest/scalatest -- http://www.scalatest.org/ (testing)
-
 * https://github.com/scalameta/scalafmt -- http://scalameta.org/scalafmt (code formatting - better than using IntelliJ)
-
 * https://github.com/twitter/chill -- https://search.maven.org/search?q=g:com.twitter (Kryo Serialiaztion for Scala - better than Java Serialization)
-
 * https://github.com/pniederw/expecty -- (for power assertions with built in macros)
 
 #### Mozilla Public License 2.0
