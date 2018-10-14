@@ -5,7 +5,7 @@ This page is available as an easy-to-read website at [https://ebookfoundation.gi
 ## Intro
 This list was originally a clone of [stackoverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) with contributions from Karan Bhangui and George Stocker.
 
-## MOOC (Massive Open Online Courses)
+# MOOC (Massive Open Online Courses)
 
 * [Coursera](https://www.coursera.org)
 * [edX](https://www.edx.org)
@@ -1279,7 +1279,7 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 
 
 
-### In Other Written Languages
+## In Other Written Languages
 + [Arabic](/free-programming-books-ar.md)
 + [Azerbaijani](/free-programming-books-az.md)
 + [Bengali](/free-programming-books-bl.md)
@@ -1310,7 +1310,7 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 + [Ukrainian](/free-programming-books-ua.md)
 
 
-### Free Online Courses
+## Free Online Courses
 + [Bulgarian](/free-courses-bg.md)
 + [English](/free-courses-en.md)
 + [German](/free-courses-de.md)
@@ -1321,16 +1321,16 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 + [Vietnamese](/free-courses-vi.md)
 
 
-### Interactive Programming Resources
+## Interactive Programming Resources
 + [English](/free-programming-interactive-tutorials-en.md)
 + [Russian](/free-programming-interactive-tutorials-ru.md)
 
 
-### Problem Sets and Competitive Programming
+## Problem Sets and Competitive Programming
 + [Problem Sets](/problem-sets-competitive-programming.md)
 
 
-### Podcast - Screencast
+## Podcast - Screencast
 Free Podcasts and Screencasts:
 
 + [Czech](/free-podcasts-screencasts-cs.md)
@@ -1340,8 +1340,9 @@ Free Podcasts and Screencasts:
 + [Swedish](/free-podcasts-screencasts-se.md)
 
 
-### Programming Playgrounds
+## Programming Playgrounds
 + [Free Programming Playgrounds](/free-programming-playgrounds.md)
++ [Compile Scala Online](https://scastie.scala-lang.org/)
 
 ## License
 Each file included in this repository is licensed under the [CC BY License](/LICENSE.md).
