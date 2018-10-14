@@ -24,6 +24,14 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
   * [SQL](#SQL)
   * [Web-Development](#Web-Development)
 
+* <a href="#Podcasts">Podcasts</a>
+  * [Git-Podcast](#Git)
+  * [Haskell-Podcast](#Haskell) 
+  * [JavaScript-Podcast](#JavaScript)
+    * [Angular-Podcast](#Angular)
+    * [React-Podcast](#React)
+  * [Security-Podcast](#Security)
+
 ____________________________________________________________________________________________________________________
 
 <a name="MOOC"></a>
@@ -219,6 +227,7 @@ ________________________________________________________________________________
 * [Functions + Messages + Concurrency = Erlang](http://www.infoq.com/presentations/joe-armstrong-erlang-qcon08) (screencast)
 * [Thinking like an Erlanger](https://www.youtube.com/watch?v=6sBL1kHoMoo) (screencast)
 
+<a name="Git-Podcast"></a>
 
 ### Git
 
@@ -229,11 +238,13 @@ ________________________________________________________________________________
 
 * [Learning Gulp](https://www.leveluptutorials.com/tutorials/learning-gulp) (screencast)
 
+<a name="Haskell-Podcast"></a>
 
 ### Haskell
 
 * [The Haskell Cast](http://www.haskellcast.com) (podcast)
 
+<a name="Javascript-Podcast"></a>
 
 ### Javascript
 
@@ -247,6 +258,7 @@ ________________________________________________________________________________
 * [Syntax](https://syntax.fm) (podcast)
 * [The Javascript Show](http://javascriptshow.com) (podcast)
 
+<a name="Angular-Podcast"></a>
 
 #### Angular.js
 
@@ -258,11 +270,14 @@ ________________________________________________________________________________
 
 * [Ember Weekend](https://emberweekend.com/episodes) (podcast)
 
+<a name="React-Podcast"></a>
 
 #### React.js
 
 * [React Native Podcast](https://devchat.tv/react-native-radio) (podcast)
 * [ReactCasts](https://www.youtube.com/c/reactcasts) (screencast)
+
+<a name="Security-Podcast"></a>
 
 #### Security
 
