@@ -289,35 +289,35 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 
 #### BSD:
 
-// https://github.com/scala/scala-async  (if you want Javascript style async blocks instead of Future Monad)
+* https://github.com/scala/scala-async  (if you want Javascript style async blocks instead of Future Monad)
 
 #### MIT:
 
-// https://github.com/lihaoyi/Ammonite -- http://ammonite.io  (if you want to play around with Scala in the REPL)
+* https://github.com/lihaoyi/Ammonite -- http://ammonite.io  (if you want to play around with Scala in the REPL)
 
 #### Apache 2.0
 
-// https://github.com/monix/monix -- https://monix.io (for functional composition of asynchronous programs)
+* https://github.com/monix/monix -- https://monix.io (for functional composition of asynchronous programs)
 
-// https://github.com/twitter/twitter-server -- https://twitter.github.io/twitter-server/ (if you want Twitter style Request/Response APIs instead of Akka HTTP)
+* https://github.com/twitter/twitter-server -- https://twitter.github.io/twitter-server/ (if you want Twitter style Request/Response APIs instead of Akka HTTP)
 
-// https://github.com/twitter/finatra -- https://twitter.github.io/finatra/ (built on top of twitter-server)
+* https://github.com/twitter/finatra -- https://twitter.github.io/finatra/ (built on top of twitter-server)
 
-// https://github.com/playframework/playframework -- http://www.playframework.com/ (for web applications and websites)
+* https://github.com/playframework/playframework -- http://www.playframework.com/ (for web applications and websites)
 
-// https://github.com/lagom/lagom -- https://www.lagomframework.com/ (for building microservices on top of Play/Akka [like Spring Boot, but more Reactive / Real Time / Streaming])
+* https://github.com/lagom/lagom -- https://www.lagomframework.com/ (for building microservices on top of Play/Akka [like Spring Boot, but more Reactive / Real Time / Streaming])
 
-// https://github.com/scalatest/scalatest -- http://www.scalatest.org/ (testing)
+* https://github.com/scalatest/scalatest -- http://www.scalatest.org/ (testing)
 
-// https://github.com/scalameta/scalafmt -- http://scalameta.org/scalafmt (code formatting - better than using IntelliJ)
+* https://github.com/scalameta/scalafmt -- http://scalameta.org/scalafmt (code formatting - better than using IntelliJ)
 
-// https://github.com/twitter/chill -- https://search.maven.org/search?q=g:com.twitter (Kryo Serialiaztion for Scala - better than Java Serialization)
+* https://github.com/twitter/chill -- https://search.maven.org/search?q=g:com.twitter (Kryo Serialiaztion for Scala - better than Java Serialization)
 
-// https://github.com/pniederw/expecty -- (for power assertions with built in macros)
+* https://github.com/pniederw/expecty -- (for power assertions with built in macros)
 
 #### Mozilla Public License 2.0
 
-// https://github.com/pureconfig/pureconfig -- https://pureconfig.github.io (for config files as immutable data structures or case classes)
+* https://github.com/pureconfig/pureconfig -- https://pureconfig.github.io (for config files as immutable data structures or case classes)
 
 
 ### Scala sbt stuff for web apps
