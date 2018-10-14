@@ -9,7 +9,8 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 
 * <a href="#MOOC">Online Courses</a>
   * [Databases](#Databases)
-  * [Git](#Git)  
+  * [Git](#Git)
+  * [Haskell](#Haskell) 
   * [Java](#Java)
   * [JavaScript](#JavaScript)
     * [Angular](#Angular)
@@ -40,6 +41,8 @@ ________________________________________________________________________________
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
 
+<a name="Databases"></a>
+
 ### Databases
 
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
@@ -56,12 +59,15 @@ ________________________________________________________________________________
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 
+<a name="Git"></a>
 
 ### Git
 
 * [Bento Git Learning Track](https://bento.io/topic/git) (Bento)
 * [Bento GitHub Learning Track](https://bento.io/topic/github) (Bento)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
+
+<a name="Haskell"></a>
 
 ### Haskell
 
@@ -84,6 +90,7 @@ ________________________________________________________________________________
 * [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 
+<a name="Java"></a>
 
 ### Java
 
@@ -96,6 +103,7 @@ ________________________________________________________________________________
 * [Princeton Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046)
 
+<a name="JavaScript"></a>
 
 ### JavaScript
 
@@ -104,6 +112,7 @@ ________________________________________________________________________________
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [learn:query](https://learnquery.infinum.co)
 
+<a name="Angular"></a>
 
 #### Angular.js
 
@@ -112,26 +121,33 @@ ________________________________________________________________________________
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
+<a name="jQuery"></a>
 
 #### jQuery
 
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
 
+<a name="React"></a>
 
 #### React
 
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
 
+<a name="Redux"></a>
 
 #### Redux
 
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+
+<a name="Machine-Learning"></a>
 
 ### Machine Learning
 
 * [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 * [Machine Learning Mini Bootcamp](https://lambdaschool.com/free-course-machine-learning/)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
+
+<a name="Python"></a>
 
 ### Python
 
@@ -154,12 +170,14 @@ ________________________________________________________________________________
 * [Python Course](http://www.python-course.eu)
 * [Python Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
 
+<a name="Scala"></a>
 
 ### Scala
 
 * [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)
 * [Principles of Reactive Programming](https://www.coursera.org/course/reactive)
 
+<a name="Software-Engineering"></a>
 
 ### Software Engineering
 
@@ -168,11 +186,13 @@ ________________________________________________________________________________
 * [Agile Development Using Ruby on Rails - Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x#!)
 * [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
 
+<a name="SQL"></a>
 
 ### SQL
 
 * [SQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
 
+<a name="Web-Development"></a>
 
 ### Web Development
 
