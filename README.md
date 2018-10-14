@@ -287,15 +287,15 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 
 ### Other Scala Libraries (By License)
 
-**** BSD:
+#### BSD:
 
 // https://github.com/scala/scala-async  (if you want Javascript style async blocks instead of Future Monad)
 
-**** MIT:
+#### MIT:
 
 // https://github.com/lihaoyi/Ammonite -- http://ammonite.io  (if you want to play around with Scala in the REPL)
 
-**** Apache 2.0
+#### Apache 2.0
 
 // https://github.com/monix/monix -- https://monix.io (for functional composition of asynchronous programs)
 
@@ -315,7 +315,7 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 
 // https://github.com/pniederw/expecty -- (for power assertions with built in macros)
 
-**** Mozilla Public License 2.0
+#### Mozilla Public License 2.0
 
 // https://github.com/pureconfig/pureconfig -- https://pureconfig.github.io (for config files as immutable data structures or case classes)
 
