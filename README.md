@@ -7,9 +7,9 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 
 # Index
 
-* <a href="#MOOC"Online Courses</a>
-* <a href="#Podcasts"Podcasts</a>
-* <a href="#EBooks"EBooks</a>
+* <a href="#MOOC">Online Courses</a>
+* <a href="#Podcasts">Podcasts</a>
+* <a href="#EBooks">EBooks</a>
 
 ____________________________________________________________________________________________________________________
 
