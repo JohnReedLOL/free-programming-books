@@ -259,8 +259,14 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 * [The Type Astronaut's Guide to Shapeless](http://underscore.io/books/shapeless-guide/) - Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 * [Xtrace](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 
+### Scala Libraries
+Tutorials and Popular Libraries: https://www.scala-exercises.org/ (https://github.com/scala-exercises/)
+Akka: https://akka.io/
+Kafka: https://kafka.apache.org/
+Better-Files: https://github.com/pathikrit/better-files
+Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 
-#### Lift Framework
+### Scala Lift Framework
 
 * [Exploring Lift](http://exploring.liftweb.net) (published earlier as "The Definitive Guide to Lift", [PDF](http://groups.google.com/group/the-lift-book))
 * [Lift](https://github.com/tjweir/liftbook)
@@ -268,7 +274,7 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 * [Simply Lift](http://simply.liftweb.net/Simply_Lift.pdf) - David Pollak (PDF)
 
 
-#### Play Framework
+### Scala Play Framework
 
 * [Essential Play](http://underscore.io/books/essential-play/) - Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 * [Play Framework Recipes](http://alvinalexander.com/scala/scala-cookbook-play-framework-recipes-pdf-ebook) - Alvin Alexander
@@ -279,12 +285,103 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 * https://github.com/tastejs/todomvc/tree/master/examples/binding-scala (https://github.com/ThoughtWorksInc/Binding.scala)
 * https://github.com/tastejs/todomvc/tree/master/examples/scalajs-react
 
+### Other Scala Libraries (By License)
+
+// BSD:
+// https://github.com/scala/scala-async  (if you want Javascript style async blocks instead of Future Monad)
+
+// MIT:
+// https://github.com/lihaoyi/Ammonite -- http://ammonite.io  (if you want to play around with Scala in the REPL)
+
+// Apache 2.0
+// https://github.com/monix/monix -- https://monix.io (for functional composition of asynchronous programs)
+// https://github.com/twitter/twitter-server -- https://twitter.github.io/twitter-server/ (if you want Twitter style Request/Response APIs instead of Akka HTTP)
+// https://github.com/twitter/finatra -- https://twitter.github.io/finatra/ (built on top of twitter-server)
+// https://github.com/playframework/playframework -- http://www.playframework.com/ (for web applications and websites)
+// https://github.com/lagom/lagom -- https://www.lagomframework.com/ (for building microservices on top of Play/Akka [like Spring Boot, but more Reactive / Real Time / Streaming])
+// https://github.com/scalatest/scalatest -- http://www.scalatest.org/ (testing)
+// https://github.com/scalameta/scalafmt -- http://scalameta.org/scalafmt (code formatting - better than using IntelliJ)
+// https://github.com/twitter/chill -- https://search.maven.org/search?q=g:com.twitter (Kryo Serialiaztion for Scala - better than Java Serialization)
+// https://github.com/pniederw/expecty -- (for power assertions with built in macros)
+
+// Mozilla Public License 2.0
+// https://github.com/pureconfig/pureconfig -- https://pureconfig.github.io (for config files as immutable data structures or case classes)
+
+
 ### Scala sbt stuff for web apps
 
 * https://github.com/tuplejump/play-yeoman
 * SBT React: https://github.com/dispalt/sbt-reactjs
 * Scala JS: https://github.com/vmunier/sbt-web-scalajs
 
+### Spark (Scala/Java/Python)
+
+* [Databricks Spark Knowledge Base](https://www.gitbook.com/book/databricks/databricks-spark-knowledge-base/details)
+* [Databricks Spark Reference Applications](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
+* [Mastering Apache Spark](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
+
+### Hadoop (Java)
+
+* [Cloudera Impala](http://www.cloudera.com/content/www/en-us/resources/aboutcloudera/cloudera-impala-ebook.html) - John Russel
+* [Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf) (Jimmy Lin and Chris Dyer) (PDF)
+* [Hadoop Explained](https://www.packtpub.com/packt/free-ebook/hadoop-explained) - Aravind Shenoy, Packt. (email address *requested*, not required)
+* [Hadoop Illuminated](http://hadoopilluminated.com/index.html) - Mark Kerzner & Sujee Maniyam
+* [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html) - Alan Gates
+
+
+## Monitoring
+
+* [Monitoring Modern Infrastructure](https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/) *(account required)*
+
+### Scala Monitoring
+
+* https://github.com/prometheus/prometheus (https://prometheus.io/)
+* https://github.com/prometheus/client_java
+* https://github.com/fiadliel/prometheus_client_scala
+* https://github.com/paypal/squbs -- http://paypal.github.io/squbs (configuration, consistent monitoring + administration console for Akka Streams and Akka HTTP)
+* https://github.com/tumblr/colossus -- https://tumblr.github.io/colossus (colossus-metrics)
+* https://github.com/kamon-io/Kamon -- http://kamon.io (Real time monitoring/metrics)
+* https://github.com/erikvanoosten/metrics-scala -- https://github.com/dropwizard/metrics -- https://metrics.dropwizard.io (Scala API for Capturing JVM- and application-level metrics)
+
+## Maven
+
+* [Developing with Eclipse and Maven](http://books.sonatype.com/m2eclipse-book/reference/)
+* [Maven by Example](http://books.sonatype.com/mvnex-book/reference/public-book.html)
+* [Maven: The Complete Reference](http://books.sonatype.com/mvnref-book/reference/public-book.html)
+* [Repository Management with Nexus](http://books.sonatype.com/nexus-book/reference/)
+
+## SBT
+* https://jazzy.id.au/2015/03/03/sbt-task-engine.html
+* https://jazzy.id.au/2015/03/04/sbt-declarative-dsl.html
+* https://www.scala-sbt.org/1.x/docs/Howto-Running-Commands.html
+
+### Some SBT Tools:
+* https://github.com/sbt/sbt
+* IntelliJ: https://github.com/mpeltonen/sbt-idea
+* Docker: https://github.com/marcuslonnberg/sbt-docker
+* Code Coverage: https://github.com/scoverage/sbt-scoverage
+* https://github.com/scala/scala-dist
+* Dependency Graph Generator: https://github.com/jrudolph/sbt-dependency-graph
+* Dependency Updates: https://github.com/rtimush/sbt-updates
+* Monitor your dependencies and report if there are any publicly known vulnerabilities: https://github.com/albuch/sbt-dependency-check
+* https://github.com/ktoso/sbt-jmh
+* Git: https://github.com/sbt/sbt-git
+* https://github.com/sbt/sbt-buildinfo
+* https://github.com/xerial/sbt-pack
+* https://github.com/spray/sbt-revolver
+* https://github.com/hseeberger/scala-sbt
+* ScaliForm: https://github.com/sbt/sbt-scalariform
+* ScalaStyle: https://github.com/scalastyle/scalastyle-sbt-plugin
+* https://www.scala-sbt.org/sbt-pgp/
+* OneJar: https://github.com/sbt/sbt-onejar
+* https://github.com/sbt/sbt-bintray
+* https://github.com/sbt/sbt-header
+* https://github.com/jsuereth/sbt-in-action-examples
+* Protobuf: https://github.com/sbt/sbt-protobuf
+* https://github.com/scalacenter/scastie
+* Jenkins plugin: https://github.com/jenkinsci/sbt-plugin
+* Docker Compose: https://github.com/Tapad/sbt-docker-compose
+* Scalafix: https://github.com/scalacenter/scalafix
 
 ## Functional Programming
 
@@ -395,63 +492,6 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 ### Wicket Framework
 
 * [Official Free Online Guide for Apache Wicket framework](http://wicket.apache.org/learn/#guide)
-
-
-## Maven
-
-* [Developing with Eclipse and Maven](http://books.sonatype.com/m2eclipse-book/reference/)
-* [Maven by Example](http://books.sonatype.com/mvnex-book/reference/public-book.html)
-* [Maven: The Complete Reference](http://books.sonatype.com/mvnref-book/reference/public-book.html)
-* [Repository Management with Nexus](http://books.sonatype.com/nexus-book/reference/)
-
-## SBT
-* https://jazzy.id.au/2015/03/03/sbt-task-engine.html
-* https://jazzy.id.au/2015/03/04/sbt-declarative-dsl.html
-* https://www.scala-sbt.org/1.x/docs/Howto-Running-Commands.html
-
-### Some SBT Tools:
-* https://github.com/sbt/sbt
-* IntelliJ: https://github.com/mpeltonen/sbt-idea
-* Docker: https://github.com/marcuslonnberg/sbt-docker
-* Code Coverage: https://github.com/scoverage/sbt-scoverage
-* https://github.com/scala/scala-dist
-* Dependency Graph Generator: https://github.com/jrudolph/sbt-dependency-graph
-* Dependency Updates: https://github.com/rtimush/sbt-updates
-* Monitor your dependencies and report if there are any publicly known vulnerabilities: https://github.com/albuch/sbt-dependency-check
-* https://github.com/ktoso/sbt-jmh
-* Git: https://github.com/sbt/sbt-git
-* https://github.com/sbt/sbt-buildinfo
-* https://github.com/xerial/sbt-pack
-* https://github.com/spray/sbt-revolver
-* https://github.com/hseeberger/scala-sbt
-* ScaliForm: https://github.com/sbt/sbt-scalariform
-* ScalaStyle: https://github.com/scalastyle/scalastyle-sbt-plugin
-* https://www.scala-sbt.org/sbt-pgp/
-* OneJar: https://github.com/sbt/sbt-onejar
-* https://github.com/sbt/sbt-bintray
-* https://github.com/sbt/sbt-header
-* https://github.com/jsuereth/sbt-in-action-examples
-* Protobuf: https://github.com/sbt/sbt-protobuf
-* https://github.com/scalacenter/scastie
-* Jenkins plugin: https://github.com/jenkinsci/sbt-plugin
-* Docker Compose: https://github.com/Tapad/sbt-docker-compose
-* Scalafix: https://github.com/scalacenter/scalafix
-
-## Hadoop
-
-* [Cloudera Impala](http://www.cloudera.com/content/www/en-us/resources/aboutcloudera/cloudera-impala-ebook.html) - John Russel
-* [Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf) (Jimmy Lin and Chris Dyer) (PDF)
-* [Hadoop Explained](https://www.packtpub.com/packt/free-ebook/hadoop-explained) - Aravind Shenoy, Packt. (email address *requested*, not required)
-* [Hadoop Illuminated](http://hadoopilluminated.com/index.html) - Mark Kerzner & Sujee Maniyam
-* [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html) - Alan Gates
-
-
-## Spark
-
-* [Databricks Spark Knowledge Base](https://www.gitbook.com/book/databricks/databricks-spark-knowledge-base/details)
-* [Databricks Spark Reference Applications](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
-* [Mastering Apache Spark](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
-
 
 ## Mathematics
 
@@ -637,7 +677,7 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
 
 
-#### Django
+### Django
 
 * [Django 2.0 Tutorial for Beginners](https://djangoforbeginners.com) (2.0)
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) (1.11)
@@ -651,13 +691,13 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 * [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html#toc) (1.8)
 * [The Django Book](https://djangobook.com/the-django-book/) (1.8 & 1.11)
 
-#### Flask
+### Flask
 
 * [Explore Flask](https://exploreflask.com) - Robert Picard
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg (0.9)
 
 
-#### Pandas
+### Pandas
 
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - Hernan Rojas (0.18.1)
 
@@ -844,7 +884,7 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 * [TypeScript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) (email address *requested*, not required)
 
 
-#### Angular.js
+### Angular.js
 
 * [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
 * [Angular.js Guide](https://docs.angularjs.org/guide/)
@@ -861,7 +901,7 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
 
-#### Backbone.js
+### Backbone.js
 
 * [A Complete guide for learning Backbone.js](http://codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
 * [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com)
@@ -875,7 +915,7 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 * [How to share Backbone.js models with node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
 
 
-#### Elm
+### Elm
 
 * [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
 * [Elm Accelerated](https://accelerated.amimetic.co.uk) - James Porter
@@ -883,7 +923,7 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 * [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
 
 
-#### Ember.js
+### Ember.js
 
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
 * [DockYard Ember.js Style Guide](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)
@@ -892,25 +932,25 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 * [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
 
 
-#### Express.js
+### Express.js
 
 * [Express.js Guide](https://web.archive.org/web/20140621124403/https://leanpub.com/express/read) - Azat Mardanov
 
 
-#### jQuery
+### jQuery
 
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/)
 * [jQuery Novice to Ninja](http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf) (PDF)
 * [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) (email address *requested*, not required)
 
 
-#### Meteor
+### Meteor
 
 * [BulletProof Meteor](https://bulletproofmeteor.com)
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
 
 
-#### Node.js
+### Node.js
 
 * [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe  ([PDF](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - [ePub](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.epub))
 * [Mixu's Node Book](http://book.mixu.net/node/)
@@ -921,7 +961,7 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 * [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-to-know-about-nodejs) - Bruno Joseph Dmello, Packt (email address *requested*, not required)
 
 
-#### React
+### React
 
 * [Free React on Rails course](https://learnetto.com/users/hrishio/courses/the-free-react-on-rails-5-course)
 * [Hacking with React](http://www.hackingwithreact.com)
@@ -942,7 +982,7 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 * [The Road to learn React - Build a Hacker News App along the Way](https://leanpub.com/the-road-to-learn-react) - Robin Wieruch *(Leanpub account or valid email requested)* [markdown](https://github.com/the-road-to-learn-react/the-road-to-learn-react/tree/master/manuscript)  
 
 
-#### React Native
+### React Native
 
 * [Programming React Native](https://leanpub.com/programming-react-native)   *(Leanpub account or valid email requested)*
 * [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
@@ -950,7 +990,7 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 * [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)
 
 
-#### Redux
+### Redux
 
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
@@ -1049,10 +1089,6 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 * [The Design of Approximation Algorithms](http://www.designofapproxalgs.com/book.pdf) (PDF)
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) (PDF)
 * [Think Complexity](http://greenteapress.com/complexity/) (PDF)
-
-## Monitoring
-
-* [Monitoring Modern Infrastructure](https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/) *(account required)*
 
 ## Compiler
 
