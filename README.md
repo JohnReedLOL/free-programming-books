@@ -25,12 +25,12 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
   * [Web-Development](#Web-Development)
 
 * <a href="#Podcasts">Podcasts</a>
-  * [Git-Podcast](#Git)
-  * [Haskell-Podcast](#Haskell) 
-  * [JavaScript-Podcast](#JavaScript)
-    * [Angular-Podcast](#Angular)
-    * [React-Podcast](#React)
-  * [Security-Podcast](#Security)
+  * [Git-Podcast](#Git-Podcast)
+  * [Haskell-Podcast](#Haskell-Podcast) 
+  * [JavaScript-Podcast](#JavaScript-Podcast)
+    * [Angular-Podcast](#Angular-Podcast)
+    * [React-Podcast](#React-Podcast)
+  * [Security-Podcast](#Security-Podcast)
 
 ____________________________________________________________________________________________________________________
 
