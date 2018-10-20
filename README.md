@@ -372,11 +372,11 @@ ________________________________________________________________________________
 <a name="Scala-Libraries-Plugins-EBooks"></a>
 
 ### Scala Libraries
-Tutorials and Popular Libraries: https://www.scala-exercises.org/ (https://github.com/scala-exercises/)
-Akka: https://akka.io/
-Kafka: https://kafka.apache.org/
-Better-Files: https://github.com/pathikrit/better-files
-Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
+* Tutorials and Popular Libraries: https://www.scala-exercises.org/ (https://github.com/scala-exercises/)
+* Akka: https://akka.io/
+* Kafka: https://kafka.apache.org/
+* Better-Files: https://github.com/pathikrit/better-files
+* Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 
 ### Scala Plugins
 * [wartremover](https://www.wartremover.org/)
@@ -453,6 +453,7 @@ Sourcecode Logging: https://github.com/lihaoyi/sourcecode#logging
 
 ### Spark (Scala/Python)
 
+* [Spark Homepage](https://spark.apache.org/)
 * [Databricks Spark Knowledge Base](https://www.gitbook.com/book/databricks/databricks-spark-knowledge-base/details)
 * [Databricks Spark Reference Applications](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
 * [Mastering Apache Spark](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
