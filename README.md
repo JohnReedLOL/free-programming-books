@@ -84,7 +84,7 @@ ________________________________________________________________________________
 
 ## MOOC (Massive Open Online Courses)
 
-* [Coursera](https://www.coursera.org) (https://www.coursera.org/specializations/scala , https://www.coursera.org/specializations/big-data)
+* [Coursera](https://www.coursera.org) ([Scala Specialization](https://www.coursera.org/specializations/scala), [Big Data Specialization](https://www.coursera.org/specializations/big-data))
 * [edX](https://www.edx.org)
 * [FutureLearn](https://www.futurelearn.com)
 * [MIT OCW](http://ocw.mit.edu)
