@@ -14,6 +14,7 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
   * [Java](#Java)
   * [JavaScript](#JavaScript)
     * [Angular](#Angular)
+    * [Angular-Tutorials](#Angular-Tutorials)
     * [jQuery](#jQuery)
     * [React](#React)
     * [Redux](#Redux)
@@ -164,6 +165,19 @@ ________________________________________________________________________________
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [learn:query](https://learnquery.infinum.co)
 
+### JavaScript Tutorials
+
+* [ABC of JavaScript : An Interactive JavaScript Tutorial](http://www.openjs.com/tutorials/basic_tutorial/)
+* [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
+* [ES6 Interactive Guide](http://stack.formidable.com/es6-interactive-guide/#/)
+* [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
+* [Javascript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
+* [Javascripting](https://github.com/sethvincent/javascripting)
+* [Learn JavaScript](http://www.learn-js.org)
+* [Learn knockout.js](http://learn.knockoutjs.com)
+* [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
+* [Try jQuery](http://try.jquery.com)
+
 <a name="Angular"></a>
 
 #### Angular.js
@@ -172,6 +186,15 @@ ________________________________________________________________________________
 * [CodeCademy Angular](https://www.codecademy.com/learn/learn-angularjs)
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+
+<a name="Angular-Tutorials"></a>
+
+#### Angular Tutorials
+
+* [Angular Basics](http://www.angularjsbook.com)
+* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
+* [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
+* [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
 
 <a name="jQuery"></a>
 
