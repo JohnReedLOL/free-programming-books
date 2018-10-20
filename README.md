@@ -10,6 +10,7 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 * <a href="#MOOC">Online Courses</a>
   * [Databases](#Databases)
   * [Git](#Git)
+  * [Git-Tutorials](#Git-Tutorials)
   * [Haskell](#Haskell) 
   * [Java](#Java)
   * [JavaScript](#JavaScript)
@@ -119,6 +120,14 @@ ________________________________________________________________________________
 * [Bento Git Learning Track](https://bento.io/topic/git) (Bento)
 * [Bento GitHub Learning Track](https://bento.io/topic/github) (Bento)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
+
+<a name="Git-Tutorials"></a>
+
+### Git Tutorials
+
+* [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
+* [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+* [Try Git](http://try.github.io)
 
 <a name="Haskell"></a>
 
