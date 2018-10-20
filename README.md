@@ -165,7 +165,7 @@ ________________________________________________________________________________
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [learn:query](https://learnquery.infinum.co)
 
-### JavaScript Tutorials
+#### JavaScript Tutorials
 
 * [ABC of JavaScript : An Interactive JavaScript Tutorial](http://www.openjs.com/tutorials/basic_tutorial/)
 * [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
