@@ -548,8 +548,7 @@ https://github.com/xubo245/SparkLearning [330 Stars]
 
 * [Monitoring Modern Infrastructure](https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/) *(account required)*
 
-<a name="Sc
-ala-Monitoring"></a>
+<a name="Scala-Monitoring"></a>
 
 ### Scala Monitoring
 
