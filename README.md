@@ -41,6 +41,7 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
   * [Spark-EBooks](#Spark-EBooks)
   * [Hadoop-EBooks](#Hadoop-EBooks)
   * [Big-Data-Libraries](#Big-Data-Libraries)
+    * [Big-Data-Examples-Demos](#Big-Data-Examples-Demos)
   * [Monitoring-EBooks](#Monitoring-EBooks)
     * [Big-Data-Monitoring](#Big-Data-Monitoring)
   * [SBT-EBooks](#SBT-EBooks)
@@ -519,13 +520,29 @@ ________________________________________________________________________________
 
 * https://github.com/onurakpolat/awesome-bigdata (https://johnreedlol.github.io/awesome-bigdata/)
 * http://hadoopecosystemtable.github.io/ (https://github.com/hadoopecosystemtable/hadoopecosystemtable.github.io)
-* Scalding (Scala API for Cascading) is a Scala library that makes it easy to specify Hadoop MapReduce jobs. Scalding is built on top of Cascading, a Java library that abstracts away low-level Hadoop details. Scalding is comparable to Pig, but offers tight integration with Scala, bringing advantages of Scala to your MapReduce jobs. https://www.cascading.org/ https://github.com/twitter/scalding [3K Stars] http://twitter.com/scalding 
+* Facebook's distributed SQL query engine for big data https://prestodb.io https://github.com/prestodb/presto [8K Stars]
 
-- Scalding ★ 2783 ⧗ 2 - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
+“Presto was designed as an alternative to tools that query HDFS using pipelines of MapReduce jobs such as Hive or Pig, but Presto is not limited to accessing HDFS. Presto can be and has been extended to operate over different kinds of data sources including traditional relational databases and other data sources such as Cassandra.“
 
+“It's an order of magnitude faster than Hive in most our use cases. It reads directly from HDFS…”
+
+* Scalding (Scala API for Cascading) is a Scala library that makes it easy to specify Hadoop MapReduce jobs. Scalding is built on top of Cascading, a Java library that abstracts away low-level Hadoop details. Scalding is comparable to Pig, but offers tight integration with Scala, bringing advantages of Scala to your MapReduce jobs. https://www.cascading.org/ https://github.com/twitter/scalding [3K Stars] http://twitter.com/scalding . Scalding ★ 2783 ⧗ 2 - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
+* Connecting applications to disparate data sources through a distributed caching layer (Unify Data at Memory Speed). https://github.com/Alluxio/alluxio [3.7k stars] http://www.alluxio.org/
+* Vespa - the open big data serving engine. Vespa is an engine for low-latency computation over large data sets. It stores and indexes your data such that queries, selection and processing over the data can be performed at serving time. For CentOS/Red-Hat-Enterprise-Linux. (Has vespa-hadoop, docker, maven-plugins, and search modules). https://github.com/vespa-engine/vespa [2.6k stars]. http://vespa.ai/ 
 * Expressive types for Spark. (Type safe + functional on Spark - integrates with Cats functional programming library). https://github.com/typelevel/frameless [481 Stars]
 
-Note: Cats library can be used for data validation. See https://typelevel.org/cats/resources_for_learners.html
+<a name="Big-Data-Examples-Demos"></a>
+
+#### Big Data Examples/Demos
+
+* KillrWeather is a reference application (work in progress) showing how to easily integrate streaming and batch data processing with Apache Spark Streaming, Apache Cassandra, Apache Kafka and Akka for fast, streaming computations on time series data in asynchronous event-driven environments. https://github.com/killrweather/killrweather [1100 Stars]
+
+* Base classes to use when writing tests with Spark. https://github.com/holdenk/spark-testing-base [830 Stars]
+
+* Spark reference applications. https://github.com/databricks/reference-apps [570 Stars]
+
+* Learning Apache spark,including code and data .Most part can run local. https://github.com/xubo245/SparkLearning
+https://github.com/xubo245/SparkLearning [330 Stars]
 
 <a name="Monitoring-EBooks"></a>
 
@@ -540,13 +557,8 @@ Note: Cats library can be used for data validation. See https://typelevel.org/ca
 * https://github.com/fiadliel/prometheus_client_scala (integrates with Cats functional programming library)
 * https://github.com/paypal/squbs -- http://paypal.github.io/squbs (configuration, consistent monitoring + administration console for Akka Streams and Akka HTTP)
 * https://github.com/tumblr/colossus -- https://tumblr.github.io/colossus (colossus-metrics)
-* https://github.com/kamon-io/Kamon -- http://kamon.io (Real time monitoring/metrics)
-
-- Kamon - Gathering metrics from applications built with Akka, Spray and Play! with support for user metrics as well. [1100 Stars]
-
-* https://github.com/erikvanoosten/metrics-scala -- https://github.com/dropwizard/metrics -- https://metrics.dropwizard.io (Scala API for Capturing JVM- and application-level metrics)
-
-- Metrics-Scala ★ 335 - Scala API for Dropwizard's Metrics library. [360 Stars]
+* https://github.com/kamon-io/Kamon -- http://kamon.io (Real time monitoring/metrics). Kamon - Gathering metrics from applications built with Akka, Spray and Play! with support for user metrics as well. [1100 Stars]
+* https://github.com/erikvanoosten/metrics-scala -- https://github.com/dropwizard/metrics -- https://metrics.dropwizard.io (Scala API for Capturing JVM- and application-level metrics). Metrics-Scala ★ 335 - Scala API for Dropwizard's Metrics library. [360 Stars]
 
 <a name="Big-Data-Monitoring"></a>
 
@@ -608,6 +620,7 @@ https://github.com/linkedin/kafka-monitor/wiki/Service-Overview
 * [Introduction to Functional Programming](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) - J. Harrison
 * [Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
+* [Cats Library](https://typelevel.org/cats/resources_for_learners.html)
 
 <a name="Security-EBooks"></a>
 
