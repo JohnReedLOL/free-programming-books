@@ -1335,7 +1335,7 @@ https://github.com/openlink/rdf-editor [55 Stars]
 * ECMAScript libraries for handling RDF data (based off of the current RDF APIs and webr3's js3) http://magnode.org/node-rdf
 https://github.com/awwright/node-rdf [68 Stars]
 
-* JS RDF store with SPARQL support. rdfstore-js is a pure Javascript implementation of a RDF graph store with support for the SPARQL query and data manipulation language [Maybe skip if not using Node]. JS RDF store with SPARQL support
+* JS RDF store with SPARQL support. rdfstore-js is a pure Javascript implementation of a RDF graph store with support for the SPARQL query and data manipulation language. JS RDF store with SPARQL support
   * SPARQL 1.0 support
   * SPARQL 1.1/Update support
   * Partial SPARQL 1.1 query support
