@@ -36,10 +36,13 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 
 * <a href="#EBooks">EBooks</a>
   * [Scala-EBooks](#Scala-EBooks)
+    * [Scala-Libraries-List](#Scala-Libraries-List) 
     * [Scala-Libraries-Plugins-EBooks](#Scala-Libraries-Plugins-EBooks) 
   * [Spark-EBooks](#Spark-EBooks)
   * [Hadoop-EBooks](#Hadoop-EBooks)
+  * [Big-Data-Libraries](#Big-Data-Libraries)
   * [Monitoring-EBooks](#Monitoring-EBooks)
+    * [Big-Data-Monitoring](#Big-Data-Monitoring)
   * [SBT-EBooks](#SBT-EBooks)
   * [Functional-Programming-EBooks](#Functional-Programming-EBooks)
   * [Security-EBooks](#Security-EBooks)
@@ -401,6 +404,10 @@ ________________________________________________________________________________
 * [The Type Astronaut's Guide to Shapeless](http://underscore.io/books/shapeless-guide/) - Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 * [Xtrace](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 
+<a name="Scala-Libraries-List"></a>
+### Scala Libraries List
+* https://johnreedlol.github.io/awesome-scala/
+
 <a name="Scala-Libraries-Plugins-EBooks"></a>
 
 ### Scala Libraries
@@ -448,6 +455,12 @@ ________________________________________________________________________________
 <a name="Other-Scala-Libraries-EBooks"></a>
 
 ### Other Scala Libraries (By License)
+
+#### The W3C LICENSE (https://opensource.org/licenses/W3C)
+
+"An RDF library in Scala. banana-rdf is a library for RDF, SPARQL and Linked Data technologies in Scala. It can be used with existing libraries without any added cost. There is no wrapping involved: you manipulate directly the real objects. We currently support Jena, Sesame and Plantain, a pure Scala implementation. https://github.com/banana-rdf/banana-rdf/wiki"
+
+* https://github.com/banana-rdf/banana-rdf (https://johnreedlol.github.io/banana-rdf/)
 
 #### BSD:
 
@@ -500,6 +513,20 @@ ________________________________________________________________________________
 * [Hadoop Illuminated](http://hadoopilluminated.com/index.html) - Mark Kerzner & Sujee Maniyam
 * [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html) - Alan Gates
 
+<a name="Big-Data-Libraries"></a>
+
+### Big Data Libraries
+
+* https://github.com/onurakpolat/awesome-bigdata (https://johnreedlol.github.io/awesome-bigdata/)
+* http://hadoopecosystemtable.github.io/ (https://github.com/hadoopecosystemtable/hadoopecosystemtable.github.io)
+* Scalding (Scala API for Cascading) is a Scala library that makes it easy to specify Hadoop MapReduce jobs. Scalding is built on top of Cascading, a Java library that abstracts away low-level Hadoop details. Scalding is comparable to Pig, but offers tight integration with Scala, bringing advantages of Scala to your MapReduce jobs. https://www.cascading.org/ https://github.com/twitter/scalding [3K Stars] http://twitter.com/scalding
+
+	•	Scalding ★ 2783 ⧗ 2 - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
+
+* Expressive types for Spark. (Type safe + functional on Spark - integrates with Cats functional programming library). https://github.com/typelevel/frameless [481 Stars]
+
+Note: Cats library can be used for data validation. See https://typelevel.org/cats/resources_for_learners.html
+
 <a name="Monitoring-EBooks"></a>
 
 ## Monitoring
@@ -510,11 +537,24 @@ ________________________________________________________________________________
 
 * https://github.com/prometheus/prometheus (https://prometheus.io/)
 * https://github.com/prometheus/client_java
-* https://github.com/fiadliel/prometheus_client_scala
+* https://github.com/fiadliel/prometheus_client_scala (integrates with Cats functional programming library)
 * https://github.com/paypal/squbs -- http://paypal.github.io/squbs (configuration, consistent monitoring + administration console for Akka Streams and Akka HTTP)
 * https://github.com/tumblr/colossus -- https://tumblr.github.io/colossus (colossus-metrics)
 * https://github.com/kamon-io/Kamon -- http://kamon.io (Real time monitoring/metrics)
+	•	Kamon - Gathering metrics from applications built with Akka, Spray and Play! with support for user metrics as well. [1100 Stars]
 * https://github.com/erikvanoosten/metrics-scala -- https://github.com/dropwizard/metrics -- https://metrics.dropwizard.io (Scala API for Capturing JVM- and application-level metrics)
+	•	Metrics-Scala ★ 335 - Scala API for Dropwizard's Metrics library. [360 Stars]
+
+<a name="Big-Data-Monitoring"></a>
+
+## Big Data Monitoring
+
+* Dr. Elephant is a job and flow-level performance monitoring and tuning tool for Apache Hadoop and Apache Spark https://github.com/linkedin/dr-elephant [730 Stars]
+* Monitor the availability of Kafka clusters with generated messages. [1000 Stars]
+https://github.com/linkedin/kafka-monitor
+https://github.com/linkedin/kafka-monitor/wiki/Service-Overview
+* Monitoring Kafka performance - Guide to monitoring Apache Kafka, including native methods for metrics collection.
+* Monitoring Hadoop performance - Guide to monitoring Hadoop, with an overview of Hadoop architecture, and native methods for metrics collection. https://github.com/DataDog/the-monitor/blob/master/hadoop/how_to_monitor_hadoop_metrics.md 
 
 ## Maven
 
