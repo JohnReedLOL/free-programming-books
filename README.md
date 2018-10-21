@@ -536,11 +536,8 @@ ________________________________________________________________________________
 #### Big Data Examples/Demos
 
 * KillrWeather is a reference application (work in progress) showing how to easily integrate streaming and batch data processing with Apache Spark Streaming, Apache Cassandra, Apache Kafka and Akka for fast, streaming computations on time series data in asynchronous event-driven environments. https://github.com/killrweather/killrweather [1100 Stars]
-
 * Base classes to use when writing tests with Spark. https://github.com/holdenk/spark-testing-base [830 Stars]
-
 * Spark reference applications. https://github.com/databricks/reference-apps [570 Stars]
-
 * Learning Apache spark,including code and data .Most part can run local. https://github.com/xubo245/SparkLearning
 https://github.com/xubo245/SparkLearning [330 Stars]
 
