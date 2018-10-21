@@ -519,9 +519,9 @@ ________________________________________________________________________________
 
 * https://github.com/onurakpolat/awesome-bigdata (https://johnreedlol.github.io/awesome-bigdata/)
 * http://hadoopecosystemtable.github.io/ (https://github.com/hadoopecosystemtable/hadoopecosystemtable.github.io)
-* Scalding (Scala API for Cascading) is a Scala library that makes it easy to specify Hadoop MapReduce jobs. Scalding is built on top of Cascading, a Java library that abstracts away low-level Hadoop details. Scalding is comparable to Pig, but offers tight integration with Scala, bringing advantages of Scala to your MapReduce jobs. https://www.cascading.org/ https://github.com/twitter/scalding [3K Stars] http://twitter.com/scalding
+* Scalding (Scala API for Cascading) is a Scala library that makes it easy to specify Hadoop MapReduce jobs. Scalding is built on top of Cascading, a Java library that abstracts away low-level Hadoop details. Scalding is comparable to Pig, but offers tight integration with Scala, bringing advantages of Scala to your MapReduce jobs. https://www.cascading.org/ https://github.com/twitter/scalding [3K Stars] http://twitter.com/scalding 
 
-	•	Scalding ★ 2783 ⧗ 2 - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
+- Scalding ★ 2783 ⧗ 2 - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
 
 * Expressive types for Spark. (Type safe + functional on Spark - integrates with Cats functional programming library). https://github.com/typelevel/frameless [481 Stars]
 
@@ -541,9 +541,12 @@ Note: Cats library can be used for data validation. See https://typelevel.org/ca
 * https://github.com/paypal/squbs -- http://paypal.github.io/squbs (configuration, consistent monitoring + administration console for Akka Streams and Akka HTTP)
 * https://github.com/tumblr/colossus -- https://tumblr.github.io/colossus (colossus-metrics)
 * https://github.com/kamon-io/Kamon -- http://kamon.io (Real time monitoring/metrics)
-	•	Kamon - Gathering metrics from applications built with Akka, Spray and Play! with support for user metrics as well. [1100 Stars]
+
+- Kamon - Gathering metrics from applications built with Akka, Spray and Play! with support for user metrics as well. [1100 Stars]
+
 * https://github.com/erikvanoosten/metrics-scala -- https://github.com/dropwizard/metrics -- https://metrics.dropwizard.io (Scala API for Capturing JVM- and application-level metrics)
-	•	Metrics-Scala ★ 335 - Scala API for Dropwizard's Metrics library. [360 Stars]
+
+- Metrics-Scala ★ 335 - Scala API for Dropwizard's Metrics library. [360 Stars]
 
 <a name="Big-Data-Monitoring"></a>
 
