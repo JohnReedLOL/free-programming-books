@@ -518,6 +518,12 @@ ________________________________________________________________________________
 * [Hadoop Illuminated](http://hadoopilluminated.com/index.html) - Mark Kerzner & Sujee Maniyam
 * [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html) - Alan Gates
 
+### More Big Data EBooks
+
+* MapReduce, Spark, Java, and Scala for Data Algorithms Book http://mapreduce4hackers.com https://github.com/mahmoudparsian/data-algorithms-book [700 Stars]
+* Example code from Learning Spark book. https://github.com/databricks/learning-spark [2.6K Stars]
+* Code to accompany Advanced Analytics with Spark from O'Reilly Media. https://github.com/sryza/aas [1100 Stars]
+
 <a name="Big-Data-Libraries"></a>
 
 ### Big Data Libraries
