@@ -981,34 +981,34 @@ https://github.com/linkedin/kafka-monitor/wiki/Service-Overview
 
 ## Graph-Databases
 
+* https://en.wikipedia.org/wiki/Graph_database (Contains list of graph databases)
+* https://www.predictiveanalyticstoday.com/top-graph-databases/ (Top graph databases)
 * Gaffer is a graph database framework. It allows the storage of very large graphs containing rich properties on the nodes and edges. Several storage options are available, including Accumulo, Hbase and Parquet.
 https://github.com/gchq/Gaffer [1400 Stars]
 * Former GraphX development repository. GraphX has been merged into Apache Spark; please submit pull requests there.https://github.com/apache/spark https://github.com/amplab/graphx
-* https://en.wikipedia.org/wiki/Graph_database (Contains list of graph databases)
-* https://www.predictiveanalyticstoday.com/top-graph-databases/ (Top graph databases)
 * Graph Data Model [taken from awesome-big-data]:
-	•	AgensGraph - a new generation multi-model graph database for the modern complex data environment.
-	•	Apache Giraph - implementation of Pregel, based on Hadoop.
-	•	Apache Spark Bagel - implementation of Pregel, part of Spark.
-	•	ArangoDB - multi model distributed database.
-	•	DGraph - A scalable, distributed, low latency, high throughput graph database aimed at providing Google production level scale and throughput, with low enough latency to be serving real time user queries, over terabytes of structured data.
-	•	EliasDB - a lightweight graph based database that does not require any third-party libraries.
-	•	Facebook TAO - TAO is the distributed data store that is widely used at facebook to store and serve the social graph.
-	•	GCHQ Gaffer - Gaffer by GCHQ is a framework that makes it easy to store large-scale graphs in which the nodes and edges have statistics.
-	•	Google Cayley - open-source graph database.
-	•	Google Pregel - graph processing framework.
-	•	GraphLab PowerGraph - a core C++ GraphLab API and a collection of high-performance machine learning and data mining toolkits built on top of the GraphLab API.
-	•	GraphX - resilient Distributed Graph System on Spark. * https://amplab.cs.berkeley.edu/publication/graphx-grades/ *
-	•	Gremlin - graph traversal Language.
-	•	Infovore - RDF-centric Map/Reduce framework. * https://github.com/paulhoule/infovore *
-	•	Intel GraphBuilder - tools to construct large-scale graphs on top of Hadoop.
-	•	MapGraph - Massively Parallel Graph processing on GPUs.
-	•	Neo4j - graph database written entirely in Java.
-	•	OrientDB - document and graph database.
-	•	Phoebus - framework for large scale graph processing.
-	•	Titan - distributed graph database, built over Cassandra.
-	•	Twitter FlockDB - distributed graph database.
-	•	NodeXL - A free, open-source template for Microsoft® Excel® 2007, 2010, 2013 and 2016 that makes it easy to explore network graphs.
+  * AgensGraph - a new generation multi-model graph database for the modern complex data environment.
+  * Apache Giraph - implementation of Pregel, based on Hadoop.
+  * Apache Spark Bagel - implementation of Pregel, part of Spark.
+  * ArangoDB - multi model distributed database.
+  * DGraph - A scalable, distributed, low latency, high throughput graph database aimed at providing Google production level scale and throughput, with low enough latency to be serving real time user queries, over terabytes of structured data.
+  * EliasDB - a lightweight graph based database that does not require any third-party libraries.
+  * Facebook TAO - TAO is the distributed data store that is widely used at facebook to store and serve the social graph.
+  * GCHQ Gaffer - Gaffer by GCHQ is a framework that makes it easy to store large-scale graphs in which the nodes and edges have statistics.
+  * Google Cayley - open-source graph database.
+  * Google Pregel - graph processing framework.
+  * GraphLab PowerGraph - a core C++ GraphLab API and a collection of high-performance machine learning and data mining toolkits built on top of the GraphLab API.
+  * GraphX - resilient Distributed Graph System on Spark. * https://amplab.cs.berkeley.edu/publication/graphx-grades/ *
+  * Gremlin - graph traversal Language.
+  * Infovore - RDF-centric Map/Reduce framework. * https://github.com/paulhoule/infovore *
+  * Intel GraphBuilder - tools to construct large-scale graphs on top of Hadoop.
+  * MapGraph - Massively Parallel Graph processing on GPUs.
+  * Neo4j - graph database written entirely in Java.
+  * OrientDB - document and graph database.
+  * Phoebus - framework for large scale graph processing.
+  * Titan - distributed graph database, built over Cassandra.
+  * Twitter FlockDB - distributed graph database.
+  * NodeXL - A free, open-source template for Microsoft® Excel® 2007, 2010, 2013 and 2016 that makes it easy to explore network graphs.
 
 <a name="SQL-EBooks"></a>
 
