@@ -72,6 +72,7 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
     * [Angular-EBooks](#Angular-EBooks)
     * [React-EBooks](#React-EBooks)
     * [Redux-EBooks](#Redux-EBooks)
+  * [JavaScript-Graph-RDF-SPARQL-Tutle-Libs](#JavaScript-Graph-RDF-SPARQL-Tutle-Libs)
   * [HTML-CSS-EBooks](#HTML-CSS-EBooks)
   * [Bootstrap-EBooks](#Bootstrap-EBooks)
   * [Language-Agnostic-EBooks](#Language-Agnostic-EBooks)
@@ -1263,7 +1264,6 @@ https://github.com/gchq/Gaffer [1400 Stars]
 * [SurviveJS - Webpack and React](http://survivejs.com)
 * [The Road to learn React - Build a Hacker News App along the Way](https://leanpub.com/the-road-to-learn-react) - Robin Wieruch *(Leanpub account or valid email requested)* [markdown](https://github.com/the-road-to-learn-react/the-road-to-learn-react/tree/master/manuscript)  
 
-
 ### React Native
 
 * [Programming React Native](https://leanpub.com/programming-react-native)   *(Leanpub account or valid email requested)*
@@ -1314,6 +1314,59 @@ https://github.com/gchq/Gaffer [1400 Stars]
 
 * [BulletProof Meteor](https://bulletproofmeteor.com)
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
+
+  * [JavaScript-Graph-RDF-SPARQL-Tutle-Libs](#JavaScript-Graph-RDF-SPARQL-Tutle-Libs)
+  * [HTML-CSS-EBooks](#HTML-CSS-EBooks)
+
+<a name="JavaScript-Graph-RDF-SPARQL-Tutle-Libs"></a>
+
+## JavaScript-Graph-RDF-SPARQL-Tutle-Libs
+
+* Javascript RDF library for browsers and Node.js. 
+(- Reads and writes RDF/XML, Turtle and N3. - Read/Write Linked Data client, using WebDav or SPARQL/Update - Parses RDFa - SPARQL queries (not full SPARQL)
+http://linkeddata.github.io/rdflib.js/doc/
+https://github.com/linkeddata/rdflib.js [320 Stars]
+
+* The OpenLink RDF Editor enables editing of RDF documents (in TURTLE notation) stored in a variety of HTTP accessible documents. Actual document access requires the target document is served from a system that supports at least one of the following open standards:
+  * Linked Data Platform (LDP)
+  * WebDAV
+  * SPARQL 1.1 Update
+  * SPARQL Graph Protocol
+https://github.com/openlink/rdf-editor [55 Stars]
+
+* ECMAScript libraries for handling RDF data (based off of the current RDF APIs and webr3's js3) http://magnode.org/node-rdf
+https://github.com/awwright/node-rdf [68 Stars]
+
+* JS RDF store with SPARQL support. rdfstore-js is a pure Javascript implementation of a RDF graph store with support for the SPARQL query and data manipulation language [Maybe skip if not using Node]. JS RDF store with SPARQL support
+  * SPARQL 1.0 support
+  * SPARQL 1.1/Update support
+  * Partial SPARQL 1.1 query support
+  * JSON-LD parser
+  * Turtle/N3 parser
+https://github.com/antoniogarrote/rdfstore-js [510 Stars]
+
+* A parser for the SPARQL query language in JavaScript. The SPARQL 1.1 Query Language allows to query datasources of RDF triples. SPARQL.js translates SPARQL into JSON and back, so you can parse and build SPARQL queries in your JavaScript applications.
+It fully supports the SPARQL 1.1 specification, including property paths, federation, and updates.
+https://github.com/RubenVerborgh/SPARQL.js [188 Stars]
+
+* RDF-Ext provides a JavaScript library for working with RDF & Linked Data. This module contains the core classes to handle RDF Model data. Additional modules may be required to handle data in different formats (Turtle, JSON-LD) or stores (Web, SPARQL). The module section lists the most common modules.
+https://github.com/rdf-ext/rdf-ext [79 Stars]
+https://www.npmjs.com/package/rdf-ext [Popularity going down]
+
+* Lightning fast, spec-compatible, streaming RDF for JavaScript http://rdf.js.org/N3.js/
+The N3.js library is an implementation of the RDF.js low-level specification that lets you handle RDF in JavaScript easily. It offers:
+  * Parsing triples/quads from Turtle, TriG, N-Triples, N-Quads, and Notation3 (N3)
+  * Writing triples/quads to Turtle, TriG, N-Triples, and N-Quads
+  * Storage of triples/quads in memory
+https://github.com/rdfjs/N3.js [340 Stars]
+
+* Graph visualization of big messy data https://gransk.com/ggraph.html
+https://github.com/pcbje/ggraph [716 Stars]
+
+## Python-Graph-RDF-SPARQL-Tutle-Libs
+
+* RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.https://rdflib.readthedocs.org/ . The library contains parsers and serializers for RDF/XML, N3, NTriples, N-Quads, Turtle, TriX, RDFa and Microdata. The library presents a Graph interface which can be backed by any one of a number of Store implementations. This core RDFLib package includes store implementations for in memory storage and persistent storage on top of the Berkeley DB. A SPARQL 1.1 implementation is included - supporting SPARQL 1.1 Queries and Update statements.
+https://github.com/RDFLib/rdflib [850 Stars]
 
 <a name="HTML-CSS-EBooks"></a>
 
