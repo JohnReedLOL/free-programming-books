@@ -465,7 +465,7 @@ ________________________________________________________________________________
 
 #### The W3C LICENSE (https://opensource.org/licenses/W3C)
 
-"An RDF library in Scala. banana-rdf is a library for RDF, SPARQL and Linked Data technologies in Scala. It can be used with existing libraries without any added cost. There is no wrapping involved: you manipulate directly the real objects. We currently support Jena, Sesame and Plantain, a pure Scala implementation. https://github.com/banana-rdf/banana-rdf/wiki"
+"An RDF library in Scala. banana-rdf is a library for RDF, SPARQL and Linked Data technologies in Scala. It can be used with existing libraries without any added cost. There is no wrapping involved: you manipulate directly the real objects. We currently support Jena, Sesame and Plantain, a pure Scala implementation. https://github.com/banana-rdf/banana-rdf/wiki". May also have support for Scala.js (Scala code that can compile into JavaScript).
 
 * https://github.com/banana-rdf/banana-rdf (https://johnreedlol.github.io/banana-rdf/)
 
