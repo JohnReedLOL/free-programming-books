@@ -82,6 +82,9 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
   * [How to Comduct A Programming Interview](http://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html)
   * [Scala Warts](http://www.lihaoyi.com/post/WartsoftheScalaProgrammingLanguage.html)
   * [Scala.js](http://www.lihaoyi.com/post/FromfirstprinciplesWhyIbetonScalajs.html)
+  * [Scala/Akka Best Practices](https://johnreedlol.github.io/scala-best-practices/)
+  * [Databricks Scala Style Guide](https://johnreedlol.github.io/scala-style-guide/)
+  * [StrategicScalaStyle](http://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html)
   
 ____________________________________________________________________________________________________________________
 
