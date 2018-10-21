@@ -72,7 +72,7 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
     * [Angular-EBooks](#Angular-EBooks)
     * [React-EBooks](#React-EBooks)
     * [Redux-EBooks](#Redux-EBooks)
-  * [JavaScript-Graph-RDF-SPARQL-Turtle-Libs](#JavaScript-Graph-RDF-SPARQL-Turtle-Libs)
+  * [JavaScript-Graph-RDF-SPARQL-Turtle-Libraries](#JavaScript-Graph-RDF-SPARQL-Turtle-Libraries)
   * [HTML-CSS-EBooks](#HTML-CSS-EBooks)
   * [Bootstrap-EBooks](#Bootstrap-EBooks)
   * [Language-Agnostic-EBooks](#Language-Agnostic-EBooks)
@@ -1315,9 +1315,9 @@ https://github.com/gchq/Gaffer [1400 Stars]
 * [BulletProof Meteor](https://bulletproofmeteor.com)
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
 
-<a name="JavaScript-Graph-RDF-SPARQL-Turtle-Libs"></a>
+<a name="JavaScript-Graph-RDF-SPARQL-Turtle-Libraries"></a>
 
-## JavaScript-Graph-RDF-SPARQL-Turtle-Libs
+## JavaScript-Graph-RDF-SPARQL-Turtle-Libraries
 
 * Javascript RDF library for browsers and Node.js. 
 (- Reads and writes RDF/XML, Turtle and N3. - Read/Write Linked Data client, using WebDav or SPARQL/Update - Parses RDFa - SPARQL queries (not full SPARQL)
