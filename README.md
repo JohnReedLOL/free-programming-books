@@ -43,6 +43,7 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
   * [Big-Data-Libraries](#Big-Data-Libraries)
     * [Big-Data-Examples-Demos](#Big-Data-Examples-Demos)
   * [Monitoring-EBooks](#Monitoring-EBooks)
+    * [Scala-Monitoring](#Scala-Monitoring)
     * [Big-Data-Monitoring](#Big-Data-Monitoring)
   * [SBT-EBooks](#SBT-EBooks)
   * [Functional-Programming-EBooks](#Functional-Programming-EBooks)
@@ -546,6 +547,9 @@ https://github.com/xubo245/SparkLearning [330 Stars]
 ## Monitoring
 
 * [Monitoring Modern Infrastructure](https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/) *(account required)*
+
+<a name="Sc
+ala-Monitoring"></a>
 
 ### Scala Monitoring
 
