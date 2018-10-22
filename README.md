@@ -37,7 +37,7 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
 * <a href="#EBooks">EBooks</a>
   * [Scala-EBooks](#Scala-EBooks)
     * [Scala-Libraries-List](#Scala-Libraries-List) 
-    * [Scala-Libraries-Plugins-EBooks](#Scala-Libraries-Plugins-EBooks) 
+    * [Scala-Libraries/Plugins](#Scala-Libraries-Plugins-EBooks) 
   * [Spark-EBooks](#Spark-EBooks)
   * [Hadoop-EBooks](#Hadoop-EBooks)
   * [Big-Data-Libraries](#Big-Data-Libraries)
