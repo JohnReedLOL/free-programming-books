@@ -1325,6 +1325,24 @@ https://github.com/gchq/Gaffer [1400 Stars]
 http://linkeddata.github.io/rdflib.js/doc/
 https://github.com/linkeddata/rdflib.js [320 Stars]
 
+* A JSON-LD Processor and API implementation in JavaScript https://json-ld.org/ . JSON-LD is designed as a light-weight syntax that can be used to express Linked Data... It is designed to be able to express key-value pairs, RDF data, RDFa data, Microformats data, and Microdata. That is, it supports every major Web-based structured data model in use today.
+https://github.com/digitalbazaar/jsonld.js/ [891 Stars]
+
+* JS RDF store with SPARQL support. rdfstore-js is a pure Javascript implementation of a RDF graph store with support for the SPARQL query and data manipulation language. JS RDF store with SPARQL support
+  * SPARQL 1.0 support
+  * SPARQL 1.1/Update support
+  * Partial SPARQL 1.1 query support
+  * JSON-LD parser
+  * Turtle/N3 parser
+https://github.com/antoniogarrote/rdfstore-js [510 Stars]
+
+* Lightning fast, spec-compatible, streaming RDF for JavaScript http://rdf.js.org/N3.js/
+The N3.js library is an implementation of the RDF.js low-level specification that lets you handle RDF in JavaScript easily. It offers:
+  * Parsing triples/quads from Turtle, TriG, N-Triples, N-Quads, and Notation3 (N3)
+  * Writing triples/quads to Turtle, TriG, N-Triples, and N-Quads
+  * Storage of triples/quads in memory
+https://github.com/rdfjs/N3.js [340 Stars]
+
 * The OpenLink RDF Editor enables editing of RDF documents (in TURTLE notation) stored in a variety of HTTP accessible documents. Actual document access requires the target document is served from a system that supports at least one of the following open standards:
   * Linked Data Platform (LDP)
   * WebDAV
@@ -1335,14 +1353,6 @@ https://github.com/openlink/rdf-editor [55 Stars]
 * ECMAScript libraries for handling RDF data (based off of the current RDF APIs and webr3's js3) http://magnode.org/node-rdf
 https://github.com/awwright/node-rdf [68 Stars]
 
-* JS RDF store with SPARQL support. rdfstore-js is a pure Javascript implementation of a RDF graph store with support for the SPARQL query and data manipulation language. JS RDF store with SPARQL support
-  * SPARQL 1.0 support
-  * SPARQL 1.1/Update support
-  * Partial SPARQL 1.1 query support
-  * JSON-LD parser
-  * Turtle/N3 parser
-https://github.com/antoniogarrote/rdfstore-js [510 Stars]
-
 * A parser for the SPARQL query language in JavaScript. The SPARQL 1.1 Query Language allows to query datasources of RDF triples. SPARQL.js translates SPARQL into JSON and back, so you can parse and build SPARQL queries in your JavaScript applications.
 It fully supports the SPARQL 1.1 specification, including property paths, federation, and updates.
 https://github.com/RubenVerborgh/SPARQL.js [188 Stars]
@@ -1350,13 +1360,6 @@ https://github.com/RubenVerborgh/SPARQL.js [188 Stars]
 * RDF-Ext provides a JavaScript library for working with RDF & Linked Data. This module contains the core classes to handle RDF Model data. Additional modules may be required to handle data in different formats (Turtle, JSON-LD) or stores (Web, SPARQL). The module section lists the most common modules.
 https://github.com/rdf-ext/rdf-ext [79 Stars]
 https://www.npmjs.com/package/rdf-ext [Popularity going down]
-
-* Lightning fast, spec-compatible, streaming RDF for JavaScript http://rdf.js.org/N3.js/
-The N3.js library is an implementation of the RDF.js low-level specification that lets you handle RDF in JavaScript easily. It offers:
-  * Parsing triples/quads from Turtle, TriG, N-Triples, N-Quads, and Notation3 (N3)
-  * Writing triples/quads to Turtle, TriG, N-Triples, and N-Quads
-  * Storage of triples/quads in memory
-https://github.com/rdfjs/N3.js [340 Stars]
 
 * Graph visualization of big messy data https://gransk.com/ggraph.html
 https://github.com/pcbje/ggraph [716 Stars]
