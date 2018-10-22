@@ -1328,7 +1328,9 @@ https://github.com/linkeddata/rdflib.js [320 Stars]
 * A JSON-LD Processor and API implementation in JavaScript https://json-ld.org/ . JSON-LD is designed as a light-weight syntax that can be used to express Linked Data... It is designed to be able to express key-value pairs, RDF data, RDFa data, Microformats data, and Microdata. That is, it supports every major Web-based structured data model in use today.
 https://github.com/digitalbazaar/jsonld.js/ [891 Stars]
 
-Note: JSON-LD (https://json-ld.org/) also has a Java implementation: https://github.com/jsonld-java/jsonld-java [252 Stars]
+* Note: JSON-LD (https://json-ld.org/) also has a Java implementation: https://github.com/jsonld-java/jsonld-java [252 Stars]
+
+* Fuseki: https://jena.apache.org/documentation/serving_data/
 
 * JS RDF store with SPARQL support. rdfstore-js is a pure Javascript implementation of a RDF graph store with support for the SPARQL query and data manipulation language. JS RDF store with SPARQL support
   * SPARQL 1.0 support
@@ -1370,6 +1372,10 @@ https://github.com/pcbje/ggraph [716 Stars]
 
 * RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.https://rdflib.readthedocs.org/ . The library contains parsers and serializers for RDF/XML, N3, NTriples, N-Quads, Turtle, TriX, RDFa and Microdata. The library presents a Graph interface which can be backed by any one of a number of Store implementations. This core RDFLib package includes store implementations for in memory storage and persistent storage on top of the Berkeley DB. A SPARQL 1.1 implementation is included - supporting SPARQL 1.1 Queries and Update statements.
 https://github.com/RDFLib/rdflib [850 Stars]
+
+## Solr/ElasticSearch RDF
+
+* https://www.opensemanticsearch.org/connector/rdf
 
 <a name="HTML-CSS-EBooks"></a>
 
