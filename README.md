@@ -112,7 +112,6 @@ ________________________________________________________________________________
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
 * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
 
-
 ### Deep Learning
 
 * [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
@@ -427,6 +426,7 @@ ________________________________________________________________________________
 ### Scala Plugins
 * [wartremover](https://www.wartremover.org/)
 * [scalastyle](http://www.scalastyle.org/sbt.html)
+* [coursier](http://coursier.github.io/coursier/1.1.0-SNAPSHOT/docs/intro)
 
 <a name="Scala-Lift-Framework-EBooks"></a>
 
@@ -1327,6 +1327,8 @@ https://github.com/linkeddata/rdflib.js [320 Stars]
 
 * A JSON-LD Processor and API implementation in JavaScript https://json-ld.org/ . JSON-LD is designed as a light-weight syntax that can be used to express Linked Data... It is designed to be able to express key-value pairs, RDF data, RDFa data, Microformats data, and Microdata. That is, it supports every major Web-based structured data model in use today.
 https://github.com/digitalbazaar/jsonld.js/ [891 Stars]
+
+Note: JSON-LD (https://json-ld.org/) also has a Java implementation: https://github.com/jsonld-java/jsonld-java [252 Stars]
 
 * JS RDF store with SPARQL support. rdfstore-js is a pure Javascript implementation of a RDF graph store with support for the SPARQL query and data manipulation language. JS RDF store with SPARQL support
   * SPARQL 1.0 support
