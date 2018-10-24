@@ -1377,6 +1377,8 @@ https://github.com/RDFLib/rdflib [850 Stars]
 
 * https://www.opensemanticsearch.org/connector/rdf
 
+* https://github.com/JohnReedLOL/spark-solr 
+
 <a name="HTML-CSS-EBooks"></a>
 
 ## HTML / CSS
