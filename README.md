@@ -1368,6 +1368,37 @@ https://www.npmjs.com/package/rdf-ext [Popularity going down]
 * Graph visualization of big messy data https://gransk.com/ggraph.html
 https://github.com/pcbje/ggraph [716 Stars]
 
+A quick Google/GitHub search also pulled up:
+
+https://www.w3.org/2001/sw/wiki/Category:Tool
+
+https://github.com/semantalytics/awesome-semantic-web 
+
+https://www.w3.org/2001/sw/wiki/Category:SPARQL_Endpoint 
+
+https://www.w3.org/2001/sw/wiki/Javascript 
+
+https://www.w3.org/2001/sw/wiki/Category:Programming_Language (
+
+http://jowl.ontologyonline.org
+
+https://code.google.com/archive/p/backplanejs/
+
+https://code.google.com/archive/p/rdfquery/
+
+https://github.com/linkeddata/rdflib.js (https://rdflib.readthedocs.io/en/latest/intro_to_sparql.html )
+
+https://www.w3.org/wiki/ConverterToRdf
+
+https://github.com/OpenTriply/YASGUI.YASQE 
+https://yasqe.yasgui.org
+https://github.com/OpenTriply/YASGUI.YASR 
+
+https://github.com/antoniogarrote/rdfstore-js
+ ( http://www.snee.com/bobdc.blog/2018/01/javascript-sparql.html )
+
+https://github.com/ktym/d3sparql 
+
 ## Python-Graph-RDF-SPARQL-Tutle-Libs
 
 * RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.https://rdflib.readthedocs.org/ . The library contains parsers and serializers for RDF/XML, N3, NTriples, N-Quads, Turtle, TriX, RDFa and Microdata. The library presents a Graph interface which can be backed by any one of a number of Store implementations. This core RDFLib package includes store implementations for in memory storage and persistent storage on top of the Berkeley DB. A SPARQL 1.1 implementation is included - supporting SPARQL 1.1 Queries and Update statements.
