@@ -1318,6 +1318,16 @@ https://github.com/gchq/Gaffer [1400 Stars]
 
 <a name="JavaScript-Graph-RDF-SPARQL-Turtle-Libraries"></a>
 
+## Semantic Web / Linked Data
+
+- https://en.m.wikipedia.org/wiki/Semantic_Web
+- https://en.m.wikipedia.org/wiki/Resource_Description_Framework
+- https://en.m.wikipedia.org/wiki/SPARQL
+
+- https://en.m.wikipedia.org/wiki/Web_Ontology_Language
+- https://en.m.wikipedia.org/wiki/Linked_data
+- http://patterns.dataincubator.org/book/
+
 ## JavaScript-Graph-RDF-SPARQL-Turtle-Libraries
 
 * Javascript RDF library for browsers and Node.js. 
