@@ -600,6 +600,7 @@ https://github.com/linkedin/kafka-monitor/wiki/Service-Overview
 * https://www.scala-sbt.org/1.x/docs/Howto-Running-Commands.html
 
 ### Some SBT Tools:
+* https://www.scala-sbt.org/1.x/docs/Community-Plugins.html
 * https://github.com/sbt/sbt
 * IntelliJ: https://github.com/mpeltonen/sbt-idea
 * Docker: https://github.com/marcuslonnberg/sbt-docker
@@ -984,6 +985,7 @@ https://github.com/linkedin/kafka-monitor/wiki/Service-Overview
 ## Graph-Databases
 
 * https://en.wikipedia.org/wiki/Graph_database (Contains list of graph databases)
+* https://en.m.wikipedia.org/wiki/List_of_SPARQL_implementations
 * https://www.predictiveanalyticstoday.com/top-graph-databases/ (Top graph databases)
 * Gaffer is a graph database framework. It allows the storage of very large graphs containing rich properties on the nodes and edges. Several storage options are available, including Accumulo, Hbase and Parquet.
 https://github.com/gchq/Gaffer [1400 Stars]
