@@ -35,6 +35,7 @@ This list was originally a clone of [stackoverflow - List of Freely Available Pr
   * [Security-Podcast](#Security-Podcast)
 
 * <a href="#EBooks">EBooks</a>
+  * [Rust-EBooks](#Rust-EBooks)
   * [Scala-EBooks](#Scala-EBooks)
     * [Scala-Libraries-List](#Scala-Libraries-List) 
     * [Scala-Libraries/Plugins](#Scala-Libraries-Plugins-EBooks) 
@@ -377,6 +378,16 @@ ________________________________________________________________________________
 <a name="EBooks"></a>
 
 # Free Online Books
+
+<a name="Rust-EBooks"></a>
+
+## Rust
+
+* [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
+* [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)
+* [The Rust Programming Language](http://doc.rust-lang.org/book/)
+* [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
+* [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf) (PDF)
 
 <a name="Scala-EBooks"></a>
 
